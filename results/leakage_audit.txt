@@ -1,0 +1,5 @@
+Total samples: 4511
+Unique texts: 4324
+Texts appearing in >1 split: 56
+Unique images (by content hash): 4469
+Images appearing in >1 split: 10

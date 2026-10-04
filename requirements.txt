@@ -1,0 +1,31 @@
+# CPU-only PyTorch wheels (much smaller than default CUDA-enabled wheels; this
+# machine has no GPU). pip falls back to PyPI for every other package below.
+--extra-index-url https://download.pytorch.org/whl/cpu
+
+# Core
+numpy
+pandas
+scikit-learn
+pillow
+matplotlib
+seaborn
+pyyaml
+tqdm
+requests
+kaggle
+emoji
+
+# Text + image modelling
+torch
+torchvision
+transformers
+sentencepiece
+
+# App / dashboard
+streamlit
+
+# Testing
+pytest
+
+# Notebooks (optional, lightweight)
+ipykernel

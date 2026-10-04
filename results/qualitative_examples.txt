@@ -1,0 +1,27 @@
+=== Examples: text wrong, fusion (helped by image) got it right ===
+id=35 true=positive text_pred=neutral fusion_pred=positive
+  text: RT @PerfSneakers: Adidas mi ZX flux
+id=138 true=positive text_pred=neutral fusion_pred=positive
+  text: RT @fatbellybella: They meet ...
+id=192 true=positive text_pred=negative fusion_pred=positive
+  text: This doesn't even look like Kerry.. #appalled
+id=222 true=positive text_pred=negative fusion_pred=positive
+  text: RT @888infinito888: not finished ? #art #arte #artwork #artcolor #artist #bol??grafo #boceto #colour #creative ?? http??
+id=229 true=positive text_pred=negative fusion_pred=positive
+  text: Baddieeee RT @1NA_Trillion: Beautifully Flawed
+id=378 true=positive text_pred=neutral fusion_pred=positive
+  text: ??@FIirtations: fifty shades of grey looks intense must see! @kea_heyy @_kelltastic_ @ColleenJervis
+
+=== Examples: text right, fusion broke it ===
+id=144 true=positive text_pred=positive fusion_pred=neutral
+  text: RT @femaIes: the matte black audi r8 is beautiful ?
+id=220 true=positive text_pred=positive fusion_pred=negative
+  text: RT @Paul_nevs: @gordonjbuchanan Thought you might like my image of a wolf I recently finished
+id=350 true=positive text_pred=positive fusion_pred=neutral
+  text: @rustyandalex sets the new BOYS STATE SWIMMING RECORD in the 200 IM 1:49:20
+id=532 true=positive text_pred=positive fusion_pred=negative
+  text: #WhyImSingle @justinbieber ruined my life. But in the best way possible ?
+id=537 true=positive text_pred=positive fusion_pred=negative
+  text: @BestBergerEver @JoelTemperlane Katy and Bill ruined Valentine's for me because their love is too perfect.
+id=704 true=positive text_pred=positive fusion_pred=negative
+  text: RT @Y0ungWarl0ck: Honey, you should see me in a crown. #MerthurValentines

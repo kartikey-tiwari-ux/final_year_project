@@ -1,0 +1,451 @@
+id,text,label,label_int,pred_a1_tfidf,pred_a2_distilbert,pred_b2_resnet,pred_c_concat_fusion,a2_confidence,b2_confidence,a1_tfidf_name,a2_distilbert_name,b2_resnet_name,c_concat_fusion_name
+17,"Love to party? We're hiring fun, outgoing, energetic & happy people. Call or visit us to learn more.",positive,0,0,0,0,0,0.94276714,0.6386826,positive,positive,positive,positive
+28,RT @Beltrew: Enthusiastic hello from the kids of Zarqa #Jordan-a poor area where many of the country's extremists come from,positive,0,1,2,0,2,0.78737575,0.8323378,neutral,negative,positive,negative
+35,RT @PerfSneakers: Adidas mi ZX flux,positive,0,0,1,0,0,0.785258,0.60911506,positive,neutral,positive,positive
+89,Ecstatic to be holding the first print copy of Wind In Your Sails. #biz #author,positive,0,2,0,0,0,0.87444013,0.7531724,negative,positive,positive,positive
+111,I can't even tell you guys how much I love these covers ? @Melissa_Landers #invaded #alienated #prettycovers,positive,0,0,0,0,0,0.54191184,0.5816943,positive,positive,positive,positive
+124,THIS remIX MAKES ME DIZZY,positive,0,0,0,2,0,0.96072406,0.54378784,positive,positive,negative,positive
+138,RT @fatbellybella: They meet ...,positive,0,0,1,0,0,0.46248645,0.94443685,positive,neutral,positive,positive
+144,RT @femaIes: the matte black audi r8 is beautiful ?,positive,0,1,0,2,1,0.6858276,0.6855881,neutral,positive,negative,neutral
+161,2 weeks until I can meet my idol @TanyaBurr! I'm so excited! ?? xx,positive,0,0,0,0,0,0.9935202,0.92985046,positive,positive,positive,positive
+192,This doesn't even look like Kerry.. #appalled,positive,0,2,2,0,0,0.81053376,0.92550063,negative,negative,positive,positive
+220,RT @Paul_nevs: @gordonjbuchanan Thought you might like my image of a wolf I recently finished,positive,0,0,0,2,2,0.8993671,0.58330464,positive,positive,negative,negative
+221,RT @VIXXMY: did they just finished swimming?? I'm glad they had time to have fun ?? #HAPPYRAVIDAY,positive,0,0,0,1,0,0.98089933,0.7598105,positive,positive,neutral,positive
+222,RT @888infinito888: not finished ? #art #arte #artwork #artcolor #artist #bol��grafo #boceto #colour #creative �� http��,positive,0,2,2,2,0,0.52402616,0.5436377,negative,negative,negative,positive
+227,?{ #girl #ana #depressed #pills #tired #sws #ptv #bands #music #cats #cuddles #raz��,positive,0,2,2,2,2,0.6030996,0.9292927,negative,negative,negative,negative
+229,Baddieeee RT @1NA_Trillion: Beautifully Flawed,positive,0,0,2,0,0,0.8998236,0.92357475,positive,negative,positive,positive
+233,RT @5SOfSImagines: You shout at fans because they won't let you see your boyfriend and he starts laughing at how flustered you get ~H http:��,positive,0,2,2,0,2,0.78225935,0.8361853,negative,negative,positive,negative
+282,RT @FootyVibez: All I need for valentines is the happiness of playing soccer ??,positive,0,0,0,0,0,0.9353941,0.96168983,positive,positive,positive,positive
+350,@rustyandalex sets the new BOYS STATE SWIMMING RECORD in the 200 IM 1:49:20,positive,0,0,0,1,1,0.527696,0.58279794,positive,positive,neutral,neutral
+378,��@FIirtations: fifty shades of grey looks intense must see! @kea_heyy @_kelltastic_ @ColleenJervis,positive,0,2,1,0,0,0.5441183,0.59941286,negative,neutral,positive,positive
+406,RT @luxury__travel: A light-hearted look at the top 5 luxury travel trends for 2015,positive,0,1,0,0,0,0.86986595,0.85265625,neutral,positive,positive,positive
+419,#blue #eyes can't be #beaten,positive,0,0,0,0,0,0.645367,0.935059,positive,positive,positive,positive
+420,Marooned in Fraggle Rock by David Young 1984 Hardcover Fraggles,positive,0,2,2,0,0,0.7789979,0.94964796,negative,negative,positive,positive
+444,RT @BolverkGTM: The Valentine Patchy gets better each year.,positive,0,0,0,0,0,0.41120926,0.9572094,positive,positive,positive,positive
+455,Donage twins :D and Barlowen ^^,positive,0,0,1,2,2,0.49605328,0.6969916,positive,neutral,negative,negative
+493,"RT @IgniteOruba: A passionate novelist, a public speaker, and a fitness trainer, wait for @WaadArif at #IgniteOruba2015 on Feb 21st!! http:��",positive,0,0,0,0,0,0.9589088,0.7395335,positive,positive,positive,positive
+521,RT @Belterra: We're reeling in something amazing this February called #FishermansKeep. See you for dinner!,positive,0,0,0,0,0,0.8042404,0.84999573,positive,positive,positive,positive
+525,RT @ANNZac: REJECTED ON THIS OF ALL DAYS,positive,0,0,0,2,0,0.6052505,0.62113684,positive,positive,negative,positive
+532,#WhyImSingle @justinbieber ruined my life. But in the best way possible ?,positive,0,0,0,2,2,0.5745668,0.72149146,positive,positive,negative,negative
+537,@BestBergerEver @JoelTemperlane Katy and Bill ruined Valentine's for me because their love is too perfect.,positive,0,0,0,0,2,0.57611334,0.7250766,positive,positive,positive,negative
+544,"Hell hath no fury like scorned actors, Ashes to ashes seek to dethrone Generations. Heres more",positive,0,2,2,0,2,0.95199245,0.60294914,negative,negative,positive,negative
+598,Wild Photo: #Bleeding #Heart #Baboons,positive,0,2,2,0,0,0.8129983,0.9859978,negative,negative,positive,positive
+635,Today is #ValentinesDay! Share it with that special someone!,positive,0,0,0,0,0,0.97146827,0.9578407,positive,positive,positive,positive
+660,#fishing #Willow #Strike #Spinnerbait #Colorado #Bleeding Love the 'bleeding' red idea and��,positive,0,0,0,0,0,0.5519129,0.88661665,positive,positive,positive,positive
+688,Today my little noodle head turned 20 Youre the chicken to my nugget and my best friend. Love you????,positive,0,0,0,1,0,0.93964213,0.44597083,positive,positive,neutral,positive
+704,"RT @Y0ungWarl0ck: Honey, you should see me in a crown. #MerthurValentines",positive,0,2,0,2,2,0.7073244,0.6812236,negative,positive,negative,negative
+715,"RT @1theK: #SneakPeek PRIME: #WINNER Ep.1 LIVE! It'll be revealed on 2pm! '#COLOR_RING' vs. '#EMPTY', which song do you listen?",positive,0,0,0,0,0,0.41931945,0.6520768,positive,positive,positive,positive
+728,I AM REDEEMED ALL OF MY SINS HAVE BEEN WASHED AWAY,positive,0,0,0,0,0,0.85288686,0.7772105,positive,positive,positive,positive
+757,"Yep...has been for awhile now! Hang on, it's gonna be a wild ride!",positive,0,0,0,2,0,0.99600023,0.8364965,positive,positive,negative,positive
+758,RT @taylorswift13: When I want to go looking for wild desert kittens but Karlie is busy 'reading' and 'studying for NYU'.,positive,0,0,2,0,0,0.6795557,0.7840324,positive,negative,positive,positive
+771,Do you agree with major Samar ?,positive,0,2,2,0,1,0.57435095,0.88082135,negative,negative,positive,neutral
+781,#LightDynamicsHealing gives you the #energetic foundation to more easily make #positive shifts in your #life.,positive,0,0,0,0,0,0.61654776,0.7892902,positive,positive,positive,positive
+790,"RT @yuny_khoo: Jumpa pelancong2 ni masa kat Masjid Selat. Pastu terus ajak makan. They are from US, Spain, and Japan.",positive,0,2,2,0,2,0.48286027,0.5413637,negative,negative,positive,negative
+798,RT @oltre_misura: Noi e la Giulia: la clip dedicata a Claudio Amendola,positive,0,0,0,1,0,0.67791826,0.8492351,positive,positive,neutral,positive
+815,"He had no #failings which were not owing to a #noble cause; to an #ardent, #generous, perhaps an immoderate passion��",positive,0,0,0,0,0,0.93788046,0.69643676,positive,positive,positive,positive
+827,RT @JacobyShaddix: @shaddixlover13 love this!!!! #paparoachfansarethebestfansever #PAPAROACH #LVRSRLNTCS @paparoach @lvrsrlntcs #FEAR �� htt��,positive,0,0,0,1,0,0.8341445,0.52763474,positive,positive,neutral,positive
+842,RT @Lydia177Wattpad: 314 pages later...second draft of my first ever novel is completed! *insert heavy sigh here* #amwriting #finished http��,positive,0,0,0,1,0,0.41708678,0.86891156,positive,positive,neutral,positive
+855,��@conspiracyimage: Then how did Rose throw it in the ocean in the end of Titanic? #flawed,positive,0,0,0,2,2,0.5026727,0.72804916,positive,positive,negative,negative
+879,#me #Brooklyn #girl #gloomy #grunge #band #bass #darkness #music #musicians #live #cool #c��,positive,0,0,2,1,0,0.41502315,0.83241713,positive,negative,neutral,positive
+893,Don't take life so serious... #life #live #serious #happiness,positive,0,0,0,0,0,0.8993534,0.7897913,positive,positive,positive,positive
+907,Evening #northeasthour how are we all today. I'm back fit & well after my first #cold #babies #helpless #fightingfit,positive,0,2,0,0,0,0.7466978,0.9855515,negative,positive,positive,positive
+914,Team Surprise are paying a good old visit to the @PrinceAlbertSW for some old fashioned wine tasting. #Excited,positive,0,0,0,1,0,0.9555611,0.99768806,positive,positive,neutral,positive
+949,RT @ShoaibMalik702: Came back frm #CricketTraining #EarlyMorning #IndoorNets #Sundays #LahoreLions #Kit ??? #WithMyWhip #In #MaliksYard ? h��,positive,0,2,0,2,0,0.60526586,0.5710763,negative,positive,negative,positive
+953,"At Pittsburgh IAP, the skylight (above) always makes me think of this (below) #INvalid",positive,0,0,1,1,1,0.94448596,0.5371695,positive,neutral,neutral,neutral
+963,#Basketmouth #Claps Back At #People Who #Mocked Him Over His Feb. 14th #UK ... - ...,positive,0,2,0,0,2,0.5281767,0.5963376,negative,positive,positive,negative
+996,Feelin' the love in here! #ValentinesDay #caring,positive,0,0,0,0,0,0.86437696,0.99447167,positive,positive,positive,positive
+1018,"Found this cool photo, not mine My ? brothers and ? nephews ????????? #boys #brothers #caring #instafamous #f4f #l4��",positive,0,0,0,0,0,0.50073326,0.71887755,positive,positive,positive,positive
+1021,#SPEECHLESS. Deah & Yusor were just married in December. #ChapelHillShooting,positive,0,0,0,0,0,0.4382624,0.6594071,positive,positive,positive,positive
+1033,RT @MisterTteaches: Grade 5s helping out other grades during #RAKWeek2015 #prairiewaters #rvsed #caring #pypchat,positive,0,2,0,0,0,0.47719043,0.63005495,negative,positive,positive,positive
+1040,Happy Workout Wednesday everyone! #BikiniReadyLifestyle #WorkoutWednesday #Strong #Fit #Sexy #Healthy #Exercise,positive,0,0,0,0,0,0.9643953,0.9644382,positive,positive,positive,positive
+1043,RT @bisha29786: Cant wait for Feb14 #EnakenaYaarumIllayae launch @ EA gona meet @anirudhofficial bro for the 1st time ??? #Excited,positive,0,0,0,0,0,0.797076,0.53035295,positive,positive,positive,positive
+1057,Seriously when is @MrAshleyCain making his appearance on ExOnTheBeach2?. #Excited,positive,0,0,1,0,0,0.47706854,0.94448525,positive,neutral,positive,positive
+1065,Highlight of my week! Great @WorldMeritHQ CountryCouncil meeting #motivated #thrilled #determined #inspired #grateful,positive,0,0,0,0,0,0.983098,0.48389846,positive,positive,positive,positive
+1081,RT @TheOfficeBarSD: 4-9p #HappyHour 9p #Trapped w/@djramsey & @TrueBassMusic +@SDTuesdayCrew #northpark #30thSt #SanDiego #ukbass #trap htt��,positive,0,0,0,2,1,0.59819245,0.70097,positive,positive,negative,neutral
+1092,Did you #know this #couch can be #turned into a fully #fledged #comfortable #bed #jannahhotels @BurjAlSarab,positive,0,0,1,0,0,0.8402113,0.78209436,positive,neutral,positive,positive
+1106,Why buy #ordinary art when you can have your art on #sailcloth. #vibrant colors!!,positive,0,2,0,1,0,0.6562043,0.99619967,negative,positive,neutral,positive
+1132,Love for Love 14th February,positive,0,0,0,1,0,0.99499387,0.60830414,positive,positive,neutral,positive
+1135,Blog Post: #AnitaMorris #Celebrity #Whipped #Babe #Hot #Hooker #Doll #Beautiful,positive,0,0,0,0,0,0.82391673,0.73096144,positive,positive,positive,positive
+1143,Day 18! Play the #wild #food #quiz - the winner will receive my spring and winter foraging books! Keep answers safe!,positive,0,0,0,2,0,0.8459316,0.97397226,positive,positive,negative,positive
+1145,32 Adorable Animals #wildlife #wild,positive,0,0,0,0,0,0.88961446,0.8921888,positive,positive,positive,positive
+1161,RT @BotleyPrimaryPE: Thank you @YourSchoolGames for the Competition pack received as part of the Reward and Recognition Scheme #delighted h��,positive,0,0,0,0,0,0.8291143,0.6070976,positive,positive,positive,positive
+1172,#news #New post: #UN #alarmed at #rising #attacks against #schoolgirls #worldwide,positive,0,2,1,2,2,0.5062211,0.85777265,negative,neutral,negative,negative
+1173,Wild Photo: #Bleeding #Heart #Baboons,positive,0,2,2,0,0,0.8129983,0.98597705,negative,negative,positive,positive
+1176,#homemade #girlfriend #slave #sub #submissive #slut #exposed -,positive,0,2,2,0,2,0.69904476,0.6766654,negative,negative,positive,negative
+1190,Comment #spiderman est mort et ressuscit��... trois fois #sony #peine #z��ro,positive,0,0,0,2,2,0.6091136,0.7097072,positive,positive,negative,negative
+1191,#fishing #Willow #Strike #Spinnerbait #Colorado #Bleeding Love the 'bleeding' red idea and��,positive,0,0,0,0,0,0.5519129,0.88661665,positive,positive,positive,positive
+1225,#my #first #tattoo #today #soo #happy #staystrong #stay #strong #brown #baby #brownie #fed��,positive,0,0,0,2,0,0.92933923,0.8454306,positive,positive,negative,positive
+1315,RT @thejenwilkinson: the #Wild have a #world of their own. Do we want a world of #cages? Fine Art Originals by Marcia Baldwin: DEER ... ht��,positive,0,2,0,2,0,0.8771741,0.61439586,negative,positive,negative,positive
+1324,Thank you @WedFlowersMag for featuring Sally' designs in your March/April issue #delighted ?,positive,0,0,0,0,0,0.61484563,0.9804427,positive,positive,positive,positive
+1361,RT @_carrienet_: Do you trust your intuition? The quirky urge? A funny feeling? That littl #depression,positive,0,2,0,0,0,0.6915232,0.79209673,negative,positive,positive,positive
+1371,@georgiebyfield you do wear a hella lotta gold and silver tho #confusion,positive,0,0,0,0,0,0.5103501,0.7306887,positive,positive,positive,positive
+1385,Nothin but the pastel sky hangin over you and I #theOriginalGradient #cottoncandy #sky #bright #happiness,positive,0,0,0,2,0,0.82679296,0.5895372,positive,positive,negative,positive
+1425,#instaphoto #jusgramm #day #tree #dinner #green #crazy #20likes #like4like #shoutout #tree��,positive,0,0,0,0,0,0.4315846,0.97593135,positive,positive,positive,positive
+1429,Sprayed with iodine. They sent small replacement top and it fits! Even with an undershirt! #elated!,positive,0,0,0,0,0,0.48114333,0.82646596,positive,positive,positive,positive
+1431,Nobody appointed you the general spokesperson for #artisticcreativity @kanyewest #worthless #undeserved,positive,0,0,2,0,0,0.49029642,0.9257078,positive,negative,positive,positive
+1440,#�ߧ���ѧݧ�ԧڧ� #�է�ާ��֧֧ۧ���ݧ�է� #nostalgia #vospomenanie #silvering #happy #crazy #��֧ߧ٧�,positive,0,0,0,0,0,0.6837893,0.7072239,positive,positive,positive,positive
+1442,RT @iloveJONAXX: scary hot #Worthless,positive,0,0,2,1,2,0.52359504,0.65722275,positive,negative,neutral,negative
+1448,#LightDynamicsHealing gives you the #energetic foundation to more easily make #positive shifts in your #life.,positive,0,0,0,0,0,0.61654776,0.7894488,positive,positive,positive,positive
+1449,It's #Monday ! Have an awesome and #successful week! Smile and be #happy . #smallbusiness #energetic,positive,0,0,0,0,0,0.99880576,0.89731735,positive,positive,positive,positive
+1453,#Enthusiastic Mr & Mrs Grundling drives away in their BMW X5 @Zambesi_Auto @LegendsZambesi @ZambesiMotorrad,positive,0,0,1,0,0,0.6207764,0.7960478,positive,neutral,positive,positive
+1461,Haha ??? #herface #nooneononeforyou #crazy #Bachelor #BachelorNation #next @ABCNetwork,positive,0,0,0,1,0,0.8092162,0.9869702,positive,positive,neutral,positive
+1474,"��ɫ�Ⱦv�Τ�Ұ�˥ޥ�Ӥ���˽�Ǥ�?��????????1�ˤ���ľ���Ф��ΤǤ⤷Ҋ�Ĥ��������줱�Ƥ�???????? ��Ԓ�����ޤ���?? #Crossfaith #Fear, and Loathing in Las Vegas #��ľ��",positive,0,2,2,0,0,0.5815462,0.8020936,negative,negative,positive,positive
+1479,"#Fear is a reaction, #courage is a decision. #trainhard #eatclean #stayfocused #Focusfitt",positive,0,2,0,0,0,0.74783665,0.73790306,negative,positive,positive,positive
+1489,Back to the hotel and @ColinBland78 is on his arse AGAIN!!! So much for BCFC fans! #Feeble,positive,0,0,0,1,0,0.7601201,0.6139114,positive,positive,neutral,positive
+1524,RT @Bear_hunt: #minicar #Light #GreenLight #Furious #Dodge #Challenger #1:18 Ok if you are a collector yo��,positive,0,2,0,1,1,0.41574234,0.7549403,negative,positive,neutral,neutral
+1568,Tom and Christine of #Solares #zero carbon house on @AptTherapy!,positive,0,1,1,0,0,0.7665566,0.4972479,neutral,neutral,positive,positive
+1591,RT @freeformers_uk: Final session with the @educationgovuk London cohort! @digitaldfe #ideation #intense #apps #digitalskills,positive,0,0,0,0,0,0.83889526,0.9648908,positive,positive,positive,positive
+1597,"At Pittsburgh IAP, the skylight (above) always makes me think of this (below) #INvalid",positive,0,0,1,1,1,0.94448596,0.5381939,positive,neutral,neutral,neutral
+1679,Oh my! Another cake but it slid around in its box hahahaha now it looks like this #ruined,positive,0,2,2,2,1,0.6343891,0.5268363,negative,negative,negative,neutral
+1704,#zealous #newyearsday Paidsocialmediajobs. - new #killer affiliate dashboard.: Get Paid,positive,0,1,0,0,0,0.62916,0.62785,neutral,positive,positive,positive
+1727,Didn't realise @PilotPenUK Friction pens work by thermo-sensitive ink until laminated 8yr old's h/work! #mortified,positive,0,2,2,2,0,0.63417804,0.753326,negative,negative,negative,positive
+1731,So glad this moment is over! #mortified #somanypeoplesaw yikes!!,positive,0,2,0,2,0,0.7757334,0.67312795,negative,positive,negative,positive
+1737,WE STILL AT IT D/L THE #outcAst EP HERE,positive,0,0,0,0,2,0.6000752,0.94805115,positive,positive,positive,negative
+1750,RT @aatessex: Are you #passionate about #AAT? We need you on the #branch #committee! Great experience on CV! PM me! @YourAAT,positive,0,0,0,2,0,0.9441405,0.92276174,positive,positive,negative,positive
+1760,Seven pounds! #SlimmingWorld #SlimmeroftheWeek #shocked #fb,positive,0,0,1,0,0,0.53589904,0.95966244,positive,neutral,positive,positive
+1767,RT @whipcentral: Chrome Lambo ? #speechless #whipcentral,positive,0,0,0,0,2,0.54320616,0.684959,positive,positive,positive,negative
+1787,"RT @TheDailyOtter: Abandoned otter pup recovers after a night in the cold, w/ more here:",positive,0,2,2,2,2,0.93307567,0.9155627,negative,negative,negative,negative
+1817,#NowPlaying This Could Be The Night by Cindy Mizelle ?? sheeeit I'm #washed ???,positive,0,1,1,1,1,0.5890754,0.7648151,neutral,neutral,neutral,neutral
+1821,Ranchers care about their community ~ #beef #cattle #ranchlife #caring,positive,0,0,0,0,0,0.387731,0.7448608,positive,positive,positive,positive
+1826,"""@Fiton_30: Happy birthday @maggi__hughes ? #whipped",positive,0,0,0,0,0,0.8653461,0.8740515,positive,positive,positive,positive
+1847,"Someone please help @imdommm she needs serious help, some nice lad just take her out for valentines #desperate",positive,0,2,0,0,0,0.89478374,0.8932313,negative,positive,positive,positive
+1848,Got one awesome #Wicked tshirt from one awesome friend today. Love it! #OneShortDayInNYC,positive,0,0,0,1,0,0.9941678,0.93163216,positive,positive,neutral,positive
+1918,Behold the lilies of the field.....#bible #caring @lajlaj1 @CSPressRoom,positive,0,0,0,2,0,0.5306132,0.67628425,positive,positive,negative,positive
+1939,"RT @CBCRadioQ: ""We're still working on seeing women's stories as universal"" #Wild author @CherylStrayed:",positive,0,0,0,0,0,0.8121854,0.6863076,positive,positive,positive,positive
+1956,RT @priyaguptatimes: Arpita is caring & giving just like Salman bhai: Aayush @khanarpita @aaysharma @BeingSalmanKhan,positive,0,0,2,2,2,0.48296225,0.8685991,positive,negative,negative,negative
+1968,Share the #Love on #Valentines.Support amazing wk of #volunteers caring for #animals @St_Lucia,positive,0,0,0,0,0,0.96748245,0.5142707,positive,positive,positive,positive
+1988,@RealPaigeWWE &am generally usually always known to be thoughtful&a cheerful giver(2 Corinthians 9:6-7)also c pic:],positive,0,0,0,0,0,0.8814777,0.7996822,positive,positive,positive,positive
+2004,compassionate kindness holds the key,positive,0,0,0,2,0,0.9914609,0.92410403,positive,positive,negative,positive
+2010,"RT @Sorayak94: Please, it will only take a second. For each retweet, $1 will be donated to help restore this poor confused child",positive,0,0,2,0,2,0.57981884,0.5618145,positive,negative,positive,negative
+2028,With the crippled and it's not me or once???? @molony_kathleen,positive,0,0,1,0,2,0.55255526,0.88502514,positive,neutral,positive,negative
+2046,RT @MBfashionweek: Shades of mermaid backstage at Son Jung Wan #MBFW | #NYFW,positive,0,1,0,0,1,0.61810035,0.48886025,neutral,positive,positive,neutral
+2089,RT @LFCFansCorner: Photo of 2015.,positive,0,2,0,0,0,0.40703946,0.6250684,negative,positive,positive,positive
+2141,RT @blackveilbrides: #BVBArmy has been nominated for #MostDevotedFans by @Loudwire Get in there and vote vote vote! ��,positive,0,0,0,2,0,0.8764769,0.78667957,positive,positive,negative,positive
+2323,Lenox Caribbee Gravy Boat Attached Plate X-444 New Condition Retired HTF,positive,0,1,2,0,0,0.549075,0.7630868,neutral,negative,positive,positive
+2325,3x retweets �� as per attached :,positive,0,1,0,0,2,0.5407041,0.53663087,neutral,positive,positive,negative
+2327,"RT @googlestudents: For most people, work is an awful experience. Here's how we can make it better for everyone http��",positive,0,0,0,0,2,0.8441584,0.67898387,positive,positive,positive,negative
+2364,RT @FilmHistoryPics: Love and marriage: Anna Kashfi wallops Marlon Brando in a bitter court battle.,positive,0,0,2,2,2,0.9075568,0.8350606,positive,negative,negative,negative
+2378,"However, there are several black people born with blonde hair as well tho",positive,0,0,1,0,0,0.54449254,0.8040077,positive,neutral,positive,positive
+2384,RT @iauroC: CHAPO IS THE NEW BLACK,positive,0,0,1,0,0,0.5695375,0.5885146,positive,neutral,positive,positive
+2425,MENS PUMA SPORT TROUSERS ACTIVWEAR PANTS BLUE SIZE S SMALL EXCELLENT,positive,0,1,1,1,1,0.7483042,0.8754019,neutral,neutral,neutral,neutral
+2428,RT @1daslyric: The way it brings out the blue in your eyes is the Tenerife Sea,positive,0,0,0,2,0,0.83727175,0.6315068,positive,positive,negative,positive
+2434,RT @people: Jennifer Lawrence gets seriously sexy at Comic-Con in a blue slit dress,positive,0,0,0,2,2,0.86552054,0.7490107,positive,positive,negative,negative
+2436,GORGEOUS NATURAL OVAL 12x10mm TOP DEEP BLUE SAPPHIRE-WHITE TOPAZ 925 SILVER RING,positive,0,1,0,0,0,0.95617443,0.8430694,neutral,positive,positive,positive
+2446,RT @PresidentRaps: Bill Clinton singing Blurred Lines by Robin Thicke,positive,0,1,1,2,2,0.8494233,0.9661225,neutral,neutral,negative,negative
+2458,RT @bestvocalsnh: NIALLS SOLO IN WHERE DO BROKEN HEARTS GO WILL ALWAYS BE MY FAVE,positive,0,2,0,0,0,0.7828017,0.7696972,negative,positive,positive,positive
+2468,"RT @DeShobhaa: Trust me, the mood in Greece is optimistic and buoyant. I took this image yesterday.",positive,0,0,0,0,0,0.88849056,0.8094902,positive,positive,positive,positive
+2491,Loved this chaotic messy poppy @LeicsNGS Green Wicket Farm today,positive,0,0,0,0,0,0.68893516,0.89510614,positive,positive,positive,positive
+2502,RT @13elieveSG: [PIC] 150711 #SS6EncoreDay1- Leeteuk looks cheerful!^^ [4P] (Cr:��.Admirers),positive,0,0,0,0,0,0.8764883,0.85351366,positive,positive,positive,positive
+2507,RT @coastalpayne: the lil booklets they gave us are so nice i'm cherishing this forever,positive,0,0,0,0,0,0.9720639,0.7740852,positive,positive,positive,positive
+2532,��@AngRodriMusic: This little cutie is joining the band @ Crabby Bills ? my niece giannaaa??,positive,0,0,0,0,0,0.4629145,0.9948827,positive,positive,positive,positive
+2538,Family are crazy!! Future Mr & Mrs Corkin ?? 5 days,positive,0,0,0,2,0,0.7963356,0.7182713,positive,positive,negative,positive
+2546,RT @Telegraph: Crippled Greece yields to overwhelming power as deal looms | @AmbroseEP,positive,0,0,2,2,2,0.9176261,0.5469259,positive,negative,negative,negative
+2589,RT @KMHodgeAuthor: How Author Teamwork Defeated Facebook. #blogpost #SundayBlogShare #writetip #IndieBooksBeSeen htt��,positive,0,0,1,0,0,0.40648356,0.5883517,positive,neutral,positive,positive
+2613,My room has the perfect window for sneaking out. too bad I'm not a delinquent child,positive,0,2,2,1,2,0.9246796,0.52032685,negative,negative,neutral,negative
+2660,Why are you feeling despondent? Take the quiz:,positive,0,1,2,0,0,0.45584106,0.85900885,neutral,negative,positive,positive
+2686,RT @InteriorDesign: On #Pinterest: Follow our projects board devoted to cool home office designs:,positive,0,1,1,1,0,0.90277034,0.77670467,neutral,neutral,neutral,positive
+2765,"RT @MacInfoBusSouth: Second day at a wet #999 Eastbourne show, but we are not downhearted. Here until 5. Question about cancer",positive,0,0,2,1,2,0.67899245,0.9130108,positive,negative,neutral,negative
+2806,RT @OthersLikeTank: Mia! (and tank) Mia was rescued from a cruel puppy mill and adopted! She's now an energetic pup! #OthersLikeTank http:/��,positive,0,0,0,0,0,0.8711882,0.6267852,positive,positive,positive,positive
+2815,RT @JonHarvey1977: @TheRyanAdams Not an entirely enthusiastic response to Live at Carnegie Hall...,positive,0,0,0,2,0,0.5189472,0.87973493,positive,positive,negative,positive
+2819,RT @monde_biodi: Certains animaux ont plus de chances que d'autres ..,positive,0,0,0,0,0,0.6713218,0.9700598,positive,positive,positive,positive
+2820,"Fantastic Show in Sophia, Bulgaria!",positive,0,2,0,0,0,0.8291592,0.7472968,negative,positive,positive,positive
+2838,"RT @belleamie47: ""I've been pitching it hard. Cuz the fans totally want it."" -@RealLucyLawless on #Xena Revival http��",positive,0,0,0,0,2,0.60978764,0.8312199,positive,positive,positive,negative
+2851,RT @lnsaneTweets: father of the year award goes to this gentleman who was taking a very excited little boy to the movies.,positive,0,0,0,0,0,0.9113058,0.8843745,positive,positive,positive,positive
+2893,Ariana Grande Has Made Lisa Rinna Fearful of Donuts For Good Reason! #RHOBH #DonutGate,positive,0,0,0,0,0,0.74546903,0.98594195,positive,positive,positive,positive
+2897,Just got these folks fed ??????,positive,0,0,1,2,2,0.57429487,0.60157835,positive,neutral,negative,negative
+2905,all I need of bliss http:/��,positive,0,2,0,0,0,0.87629,0.8621621,negative,positive,positive,positive
+2932,"RT @MLS: The Sebastian Giovinco Show. #NYCvTOR is all tied up at 2, and we haven't even finished the first half yet.",positive,0,0,2,2,2,0.68335223,0.933522,positive,negative,negative,negative
+2971,ANTIQUE rare FOND PETS children Cloth book 1918 Saalfield Pub. Akron Ohio nice,positive,0,0,0,0,0,0.390557,0.93783736,positive,positive,positive,positive
+2995,RT @ElectricLit: Top 10 gleeful adulterers in literature,positive,0,0,0,2,0,0.77753454,0.4592417,positive,positive,negative,positive
+2996,RT @redteekal: #AHBL6 1 of my fav photos from the very few I could take today. #JensenAckles shows his gleeful surprise as he enters http:/��,positive,0,0,0,0,0,0.6975904,0.5423024,positive,positive,positive,positive
+3013,RT @danisnotonfire: dan enjoying a view or the grim reaper? 99% of people will get this wrong https://t.co/jlyi47A5i4,positive,0,2,1,0,2,0.40492517,0.5856044,negative,neutral,positive,negative
+3014,Share a Coke with Grouchy the Can @ChristophSam @NickPat24,positive,0,0,0,0,1,0.57890874,0.659172,positive,positive,positive,neutral
+3025,"3 Mindsets to Increase Your Income, Value, And Happiness via @addictd2Success #Leadershp",positive,0,0,0,0,0,0.71352863,0.9116545,positive,positive,positive,positive
+3068,RT @StimuIating: When squirrels are having a better summer than you |,positive,0,0,0,1,0,0.91499984,0.85840446,positive,positive,neutral,positive
+3091,RT @sLcarothers: Rly cool idea: Interpreting graphs with sound for the visually impaired #datscihack,positive,0,2,1,2,1,0.7172605,0.82954335,negative,neutral,negative,neutral
+3096,Imperfect keramiek perfect gemaakt door Jeroen Wand - - Blogpost op Stylingblog.nl #interieur,positive,0,0,0,1,0,0.48292512,0.989796,positive,positive,neutral,positive
+3103,For any other Imperfect Parents - want to forgive yourself and join my club?,positive,0,0,2,0,0,0.6261489,0.9006257,positive,negative,positive,positive
+3110,RT @pokellosexxy: Life has taught me that a person with no self Respect is incapable of respecting Others!,positive,0,2,2,0,0,0.8563935,0.6612929,negative,negative,positive,positive
+3120,RT @thinkprogress: An incomplete list of entities that do not want to be associated with Bill Cosby,positive,0,2,1,1,1,0.5751609,0.5986695,negative,neutral,neutral,neutral
+3128,RT @dxvndrvi: My favorite paintings even though one of them is incomplete,positive,0,0,2,0,0,0.52466756,0.88925034,positive,negative,positive,positive
+3217,"So Pete's new suit is shinny? What kind of material is that, it's too flexible to be armor.",positive,0,2,2,0,2,0.65086925,0.52415353,negative,negative,positive,negative
+3234,RT @thefemaleboook: When there's only one left and you take care of it like if it was a baby,positive,0,0,0,1,0,0.56347257,0.8153173,positive,positive,neutral,positive
+3237,RT @Peaches_HQ: Retweet for left favorite for right,positive,0,0,0,0,0,0.83118844,0.5743914,positive,positive,positive,positive
+3241,"Great ride today. Nice and cool, pretty quiet too! @JoshuaShymko eagles nest win baby! Folk fest on glad I left early",positive,0,0,0,1,0,0.98652816,0.7939707,positive,positive,neutral,positive
+3243,Birthday fruit cake! And on her left ....,positive,0,0,0,1,0,0.75604886,0.50037533,positive,positive,neutral,positive
+3282,RT @robgrantdotcom: Lost in the love of the music...,positive,0,0,0,0,0,0.605347,0.92941225,positive,positive,positive,positive
+3326,RT @chicagolandia: Pink Coral Beaded #Earrings #shoppershour #etsyaaa #epiconetsy #jewelry,positive,0,0,0,1,0,0.82104963,0.53199315,positive,positive,neutral,positive
+3331,"RT @beauty_editor: The best hairstyles for medium, wavy hair:",positive,0,0,0,0,0,0.7687956,0.9596944,positive,positive,positive,positive
+3349,RT @sprague_paul: Popular on 500px : Black swan by RobertAdamec,positive,0,1,0,1,2,0.70884943,0.6067191,neutral,positive,neutral,negative
+3357,"RT @nuhasarwar: ��We have not sent down to you this Qur'��n,for you to be miserable!�� -Qur'an {20:2}",positive,0,0,2,0,2,0.96302277,0.60410213,positive,negative,positive,negative
+3367,How Whistle-Blower Helped Expose Michigan Cancer Doctor (via juice.li),positive,0,2,2,2,2,0.76382506,0.5585275,negative,negative,negative,negative
+3386,"RT @NlALLSJHORAN: my boy ?? outchea repping my country ?? i can't believe he's mixed ?? it's official , Niall Is Mixed ??",positive,0,0,1,0,0,0.39894304,0.9368379,positive,neutral,positive,positive
+3431,RT @FansTWD3: Fiesta de la nueva serie de Robert Kirkman Outcast' en el Andaz Hotel. @wwwbigbaldhead @emmykinney y mas gente amiga!,positive,0,0,0,2,0,0.7009527,0.6662266,positive,positive,negative,positive
+3440,"RT @perditafelicien: Mexico's Grajales overjoyed with Triathlon gold. Young CDNS A. Yorke & T. Mislawchuk 7th,10th & rising! #CBCPanAm http��",positive,0,0,0,0,0,0.5605226,0.74619544,positive,positive,positive,positive
+3441,"RT @xcassidyo: harry usually doesnt say ""overwhelmed"" in his wmyb solo but he did last niiiiiiiight",positive,0,2,2,1,0,0.6351597,0.48647785,negative,negative,neutral,positive
+3443,Why do you get overwhelmed so much? Take the quiz:,positive,0,2,1,0,0,0.42342055,0.655198,negative,neutral,positive,positive
+3489,Country Brook Design?? Puzzled Designer Handmade Dog Collar-L,positive,0,2,0,0,0,0.48880208,0.8833006,negative,positive,positive,positive
+3497,RT @NootkaMarine: An action shot of Marine Operations Manager Gibran reeling in a big one! #NootkaSound #VancouverIsland #Fishing,positive,0,2,0,0,0,0.68979424,0.7510835,negative,positive,positive,positive
+3503,GIT Most Read Stories #4: Everyone��s still reeling from @ClubEVOL��s massive FestEVOL line up:,positive,0,0,0,1,1,0.48656872,0.36089963,positive,positive,neutral,neutral
+3527,RT @ModTrav: Horseback Riding on Flagler Beach with Equestrian Adventures @jeari1 #flagler #beach #summ��,positive,0,2,0,0,0,0.8523265,0.57299095,negative,positive,positive,positive
+3528,"Doing some horse riding at my uncles farm, such a Beautifulll day!",positive,0,0,0,2,2,0.9869773,0.9964767,positive,positive,negative,negative
+3592,Skittish lip stain? beaut ? who wants one? No smudging & lasts ALL day! ??,positive,0,0,0,0,0,0.7308382,0.9351521,positive,positive,positive,positive
+3597,RT @fluffy_taeng: sooyoung bending so that hyotae won't appear too small lmao #considerate,positive,0,2,2,0,0,0.4801426,0.95757127,negative,negative,positive,positive
+3600,O'shaughnessy winner with a kicker small for big bass. @Abu_Garcia @TackleWarehouse,positive,0,0,1,0,0,0.55657566,0.9100454,positive,neutral,positive,positive
+3604,"""How To Design A Great Small #Business Logo That Lasts"" �\�\�\?�\�\�\",positive,0,0,1,0,0,0.9153421,0.94039327,positive,neutral,positive,positive
+3606,Lot of 6 MY LITTLE PONY Small Horses Figures #PinkiePie,positive,0,0,0,1,0,0.90483755,0.40570563,positive,positive,neutral,positive
+3618,RT @AmazingDealUK: Kid's 9inch Despicable Me 2 Minion 3D Toy Soft Cosplay Avengers Spiderman #T52,positive,0,1,0,0,0,0.524656,0.97001237,neutral,positive,positive,positive
+3621,Come get you good Quality Brazilian hair ?? soft thick bundles ! Prices low shop with me ?,positive,0,0,0,1,1,0.8884847,0.8451288,positive,positive,neutral,neutral
+3660,"Just to be spiteful, @NaakiiChan. :D",positive,0,2,2,0,0,0.7578086,0.6736841,negative,negative,positive,positive
+3680,Most WTF Pics You��re Going to See All Day,positive,0,0,2,0,0,0.4497579,0.90133816,positive,negative,positive,positive
+3700,"Once Your Realize What��s REALLY Happening In This Video, You��ll Be?Stunned",positive,0,2,2,2,2,0.82065725,0.50258905,negative,negative,negative,negative
+3716,Flight to Sicily for International Computer Vision Summer School ICVSS 2015 http:��,positive,0,0,1,0,0,0.76487917,0.5653158,positive,neutral,positive,positive
+3754,RT @_TronVin_: She fucking smirks after being thrown against the wall.,positive,0,2,2,0,2,0.5394689,0.48999113,negative,negative,positive,negative
+3788,Are you troubled about low self-image? Take the quiz:,positive,0,0,0,2,2,0.6547811,0.88877285,positive,positive,negative,negative
+3791,Therapists Help for Parents with Troubled Teenagers - #howto #how,positive,0,1,1,2,2,0.6078816,0.7257928,neutral,neutral,negative,negative
+3816,::Watches as the catering staff serve up some light snacks::,positive,0,1,0,0,0,0.9569574,0.54041487,neutral,positive,positive,positive
+3874,Thank you @god for this non white washed beauty,positive,0,0,0,0,0,0.97450304,0.8879983,positive,positive,positive,positive
+3893,RT @kakaottamook: ?? ?? (???!,positive,0,0,0,0,0,0.8950711,0.6521047,positive,positive,positive,positive
+3972,�ڣ�УУ٣�������-�������åȡ�ȫ���� [���ߥå�] by ���ɥ� ���� [���ߥå�] by ���ɥ� ���� [���ߥå�] by ���ɥ� ����?[���ߥå�]��,positive,0,0,0,0,2,0.48226205,0.65447885,positive,positive,positive,negative
+3976,RT @TheNetflixLife: Petition to get Drake & Josh on Netflix. RT if you want it on Netflix. ??,positive,0,0,0,2,0,0.8578523,0.79510975,positive,positive,negative,positive
+4022,Top Shot: Roads Aglow http://t.co/4DmHJEaFC6 http://t.co/RSmwxjmJzs #photography,positive,0,0,2,0,2,0.4929452,0.6602492,positive,negative,positive,negative
+4039,"#LGBT LGBT Catholics 'alienated' by Church, gay priest says in letter to Pope�� http://t.co/c95RJxLQT5 #tomandroyd http://t.co/leihXUDupd",positive,0,2,1,0,2,0.6660691,0.7711176,negative,neutral,positive,negative
+4083,"RT @itsGODDY: Tiwa Savage is Black, So Is Tee Billz. Their Child Is White. Hmmm. #DoroBaby Indeed. No Strings Attached O. Away Tinz http://��",positive,0,2,0,2,2,0.6843864,0.7648124,negative,positive,negative,negative
+4094,RT @acya_5: �������2λ?�Ȥ��ԤäƤ��ΤǤ������ɤ��Υ���ɤ����ҹ����k�ǡ�����ʼ������{���o�����`ȫ��Ͷ��Ǥ���??(?^��^?)??�ޤ������E�Ĥ�6�˥饹�����ߥ��Ȥ���������ܤ���2λ�Ǥ�����Ӌ��ͨ��(   �B-�B   ) http://t.co/haDnb��,positive,0,0,0,1,1,0.874959,0.9433816,positive,positive,neutral,neutral
+4215,"RT @1DInfectionMNL: He has one of the most beautiful, caring hearts in the entire world. You can't fight us on this. #HarryApprecationDay h��",positive,0,0,0,0,0,0.9884935,0.49960098,positive,positive,positive,positive
+4223,RT @mem924: Remember recess? Learning how @PlayworksMA makes it less chaotic to gain more effective class time #fidelitygivesback http://t.��,positive,0,0,0,0,0,0.52664316,0.65091324,positive,positive,positive,positive
+4234,RT @realploy96: ????????????? '????????????????????' ?????????????? ?????????? ???????????? 555555555555555555555555555555555555 http://t.c��,positive,0,0,0,2,0,0.8537668,0.5591656,positive,positive,negative,positive
+4237,RT @PeggyMcAloon: Children learn by watching their peers. Elle Burton is a compassionate role model. http://t.co/xlKdqqhPRY http://t.co/3hK��,positive,0,2,0,0,0,0.829566,0.80800277,negative,positive,positive,positive
+4247,"RT Binksterb : RT PerfectServe: In the healthcare field, it��s important to protect ALL for�� http://t.co/xvMPin12fS http://t.co/t49dqhqwxj",positive,0,0,0,2,1,0.87363106,0.478632,positive,positive,negative,neutral
+4272,Who wants a kiss ?? just crushed this workout http://t.co/e5QtxR8s8x,positive,0,0,2,0,0,0.51859534,0.80852383,positive,negative,positive,positive
+4278,Hot Deals : http://t.co/LAYgLhD279 #3221 1.5 CT Simulated Round Cut Engagement Bridal Ring Band set 14k White Gol�� http://t.co/XZrwxHWi16,positive,0,0,1,1,0,0.64254826,0.9281083,positive,neutral,neutral,positive
+4283,RT @indyluhan: [Clip] 150722 LUHAN - Real Hero Teaser Cut llcr.deermegiyah https://t.co/tZBKboSM1c http://t.co/r3oIBE03Yx,positive,0,0,0,2,2,0.6055271,0.5709571,positive,positive,negative,negative
+4285,http://t.co/7D2pY9Fxuf http://t.co/us��,positive,0,0,2,1,0,0.5170469,0.44311774,positive,negative,neutral,positive
+4305,New on Ebay UK DAMAGED APPLE iPHONE 6 16GB SPACE GREY SMARTPHONE (O2) - SPARES REPAIRS (RN�� http://t.co/sQEVu4WIOD http://t.co/yK5XXUcaRq,positive,0,1,1,2,1,0.6385802,0.48778322,neutral,neutral,negative,neutral
+4321,RT @bfcdublin: Delighted to announce that Eoin Wearen has rejoined the club. Welcome back Eoin http://t.co/0Jh2Izp9Kk,positive,0,0,0,2,0,0.90597945,0.6985498,positive,positive,negative,positive
+4324,RT @vitalmanagement: Delighted to announce  @emmerdale actress @AndersonNatalie  is represented by Vital #publicity #media #image #PR http:��,positive,0,0,0,0,0,0.9498099,0.8703488,positive,positive,positive,positive
+4338,RT @LFC: Photo @Roberto_Firmino makes his first trip to Melwood as a #LFC player http://t.co/slqnUw8t1K,positive,0,0,0,0,0,0.74219877,0.63862276,positive,positive,positive,positive
+4341,RT @debdjsim: @HerRoyalHeinous @LizzieRainbow @Corbyn4Leader She's cousin to David Cameron-What? Family of depraved horrors ! http://t.co/5��,positive,0,0,2,0,2,0.7454056,0.66633815,positive,negative,positive,negative
+4342,Why are you so depressed? Take the quiz: http://t.co/eNkgRDixUz http://t.co/HnFUFtwaxA,positive,0,2,0,1,0,0.46753192,0.388811,negative,positive,neutral,positive
+4373,RT @wwd: There��s a clear answer for magazine editors desperate to grow their newsstand sales: @rihanna. http://t.co/ZpZEg8HECA http://t.co/��,positive,0,2,2,0,0,0.4824423,0.95658416,negative,negative,positive,positive
+4407,"RT @miraclechannel: According to John 10:10, Jesus came so you could have life, and have it more abundantly! #Devoted http://t.co/CBg5I4nAy8",positive,0,0,0,0,0,0.9771792,0.40023836,positive,positive,positive,positive
+4424,http://t.co/vpXAH1oAmh http://t��,positive,0,0,2,0,0,0.5170469,0.83946514,positive,negative,positive,positive
+4436,RT @sidhuwrites: Vikatan has enough space for the star Sivakarthikeyan but have overlooked the actor Vikram. Dismal stuff. http://t.co/sGZb��,positive,0,0,0,2,0,0.66138905,0.6558804,positive,positive,negative,positive
+4490,"RT @globeandmail: Doting brother, budding trendsetter: Prince George celebrates 2nd birthday http://t.co/ZbYJWsxEcn http://t.co/haoOu46kfi",positive,0,0,0,0,0,0.9277761,0.61498666,positive,positive,positive,positive
+4509,We are ecstatic to be supporting the @RVABreastfeeds campaign with social media strategy. #rvabreastfeeds http://t.co/Vq5oCyw0l1,positive,0,0,0,1,0,0.9499634,0.964193,positive,positive,neutral,positive
+4510,"RT @edensher: Here are two pictures both titled ""Eden Looks Ecstatic While Friend Looks Vaguely Upset"" http://t.co/SilAZOqa",positive,0,2,0,0,2,0.6937559,0.8129122,negative,positive,positive,negative
+4574,RT @GrahamTilbury: So many enthusiastic attendees that it is standing room only! #TRTATownHall  #excitementbuilding http://t.co/hHRMUfkwne,positive,0,2,0,1,0,0.84384096,0.63016605,negative,positive,neutral,positive
+4660,�����å���s�ϡ���ץ饤��Х����s���饹���`�ȣ� http://��,positive,0,0,0,2,0,0.7666463,0.6470001,positive,positive,negative,positive
+4680,#amwriting h��,positive,0,0,1,0,1,0.44162387,0.84608734,positive,neutral,positive,neutral
+4704,RT @DVCMAC: .@Anomaly100 Terrorists should be frightened. What's that NAZI propaganda #gunsense advocates spew? Nothing to fear? http://t.c��,positive,0,2,2,0,2,0.89269334,0.840385,negative,negative,positive,negative
+4706,RT @AvrilTaylor8: @AmeowliaFurhart @OliverTomCat Don't be frightened I'll come over and sort them out for you. Love Tommyxxx http://t.co/Ia��,positive,0,0,0,2,0,0.7086902,0.838916,positive,positive,negative,positive
+4734,ANCHANG����Υԥå�������??? http://t.co/c1mySnk4Hw,positive,0,0,0,0,0,0.6157046,0.98759127,positive,positive,positive,positive
+4741,Why are you feeling gloomy? Take the quiz: http://t.co/2TE1MGmcy1 http://t.co/TfBPNhoYf5,positive,0,0,1,2,0,0.46545675,0.92985326,positive,neutral,negative,positive
+4742,�٤����Ƥ�ߤʤ������դ��B���뤾�`(^^) http://t.co/1K6HhPAKGZ,positive,0,0,0,0,0,0.8974725,0.6327213,positive,positive,positive,positive
+4743,RT @Hpeach16: @gloomy_john @JungUiHan ???????????? http://t.co/YL7HTgjbxs,positive,0,0,0,0,0,0.60400766,0.55212456,positive,positive,positive,positive
+4790,#24themovie http://t.co/91TxrS3eq6,positive,0,0,2,0,0,0.8746511,0.80075854,positive,negative,positive,positive
+4806,#viEUwsLive - Heated debate on #GMOs: European Commission brushes off criticisms | VIDEO: http://t.co/ZTR9ElQozy http://t.co/ZRyTaA8ug4,positive,0,2,2,1,1,0.8531054,0.8605301,negative,negative,neutral,neutral
+4809,RT @RaleighNCRR: Week 2 of voting rights trial gets heated http://t.co/QYuZEJWRtT http://t.co/cevCkXeCc2,positive,0,0,2,0,0,0.587558,0.9299632,positive,negative,positive,positive
+4811,Bad Blood Part Two? Taylor Swift and Nicki Minaj Have Heated Twitter Exhange Over MTV VMA Nod �� http://t.co/b6HcWNLxcW,positive,0,2,0,0,0,0.62437934,0.99425274,negative,positive,positive,positive
+4868,"RT @1DFAMlLY: Niam on stage in Edmonton, Canada last night (21). Photos in our gallery: http://t.co/Mih7e7y7Pk http://t.co/VjEc79j3KS",positive,0,2,2,0,0,0.7354084,0.7878883,negative,negative,positive,positive
+4875,5555555555555555555555555555 http://t.co/LS4waLTgkt,positive,0,0,1,0,1,0.99992764,0.8801857,positive,neutral,positive,neutral
+4889,RT @kagami_eri_: ���桿7��22�հk�ӤΡ�����ա�9�ºŤˡ��������ɫ�᤯���f��������9Ԓ�����d����Ƥ���ޤ�����K�ؤȤʤ�ޤ������ζ��ˤ��Ф�ĩ��������Ҋ�줱��픤�����Ҥ����Ǥ���2������핰k���趨�Ǥ������ɤ��������������¤��ޤ��� http://t.co��,positive,0,0,0,0,0,0.64046717,0.9730838,positive,positive,positive,positive
+4897,Top Deals : http://t.co/vmbSBObT8B #87143 COCOCHOCO Complex Brazilian Keratin Treatment Kit no. 33 NEW : Intense �� http://t.co/hQLG31M1nX,positive,0,1,1,0,1,0.8457075,0.88756496,neutral,neutral,positive,neutral
+4913,"RT @DarthVadersBack: Harry Potter dressed as Boba Fett, your argument is invalid http://t.co/Xee5LJPC1q",positive,0,2,0,0,1,0.5584536,0.84112257,negative,positive,positive,neutral
+4927,RT @Hamza_Africa: A man's beauty is judged by the number of camels he owns. #Somalia #Djibouti #Africa #Somali http://t.co/gXwsMmKWmP,positive,0,2,1,2,0,0.66652423,0.7985252,negative,neutral,negative,positive
+4956,Arden B Womens Blue Solid Dress Sz M Medium Short Sleeve Modal Blend Above Knee http://t.co/hHbd7EnsEa http://t.co/9Dr58voDRP,positive,0,1,1,0,0,0.97608745,0.99092627,neutral,neutral,positive,positive
+4959,RT @juicycolor: pixiv��Ͷ�夷�ޤ��� ɽ���ߤʤ���Ⱥ����������Ǥ� #pixiv  http://t.co/0an8inCcjV http://t.co/zU1mS8z7wW,positive,0,0,0,0,0,0.79544455,0.9989784,positive,positive,positive,positive
+5027,Paralyzed?_? http://t.co/xLLOSfoKMF,positive,0,1,1,2,2,0.73024154,0.498832,neutral,neutral,negative,negative
+5030,RT @IovebaIIoons: Dad designs shoes to give his paralyzed daughter the sensation of walking.. well played dad well played ? http://t.co/0Gl��,positive,0,0,0,0,0,0.907004,0.8910439,positive,positive,positive,positive
+5032,RT @exchangealumni: Viktoriya & Viktoriia share more than a name. They are passionate abt human rights & Ukraine: http://t.co/cUrTaEkBlj ht��,positive,0,0,0,0,0,0.60902214,0.6481008,positive,positive,positive,positive
+5039,ht��,positive,0,0,0,1,2,0.7345654,0.9059287,positive,positive,neutral,negative
+5042,RT @bestpmorepics: http://t.co/NbJLGlK37b,positive,0,0,0,0,0,0.6122193,0.95902324,positive,positive,positive,positive
+5048,RT @_BetteDavis: Bette on set of THE PETRIFIED FOREST (1936). #BetteDavis #behindthescenes http://t.co/cztKY1M00E,positive,0,1,1,2,2,0.43132895,0.8803745,neutral,neutral,negative,negative
+5080,Tower Hamlets rejected British Land��s proposals last night for the Liberty of Norton Folgate - http://t.co/aPlBpHi5Gw http://t.co/u9csd3P90W,positive,0,2,1,2,2,0.39955443,0.91242427,negative,neutral,negative,negative
+5090,RT @jaketwentyfive: #KidsTodayWillNeverKnow that this baby ruined Zoey 101 http://t.co/3gQNrGpkyk,positive,0,2,0,0,0,0.72744256,0.89288306,negative,positive,positive,positive
+5093,#FanArmyFaceOff #Directioners http://t��,positive,0,1,2,2,2,0.46252987,0.63181114,neutral,negative,negative,negative
+5095,#FanArmyFaceOff #Directioners http://t��,positive,0,1,2,2,2,0.46252987,0.63181114,neutral,negative,negative,negative
+5100,"'The Scorned Help': Check out posters featuring Van Vicker, Jide Kosoko M> http://t.co/t0uMvc0JqE http://t.co/Dun7t9YI38",positive,0,0,0,0,0,0.39955282,0.83928597,positive,positive,positive,positive
+5103,RT @JasperIslington: Hell hath no fury like a #Corgi scorned. http://t.co/6B34wxshSA,positive,0,2,2,0,2,0.97177494,0.73648703,negative,negative,positive,negative
+25,RT @curiosityhouse: Author @CarolynjMorris reads to an enthusiastic audience #BigHeartDays @CreemoreOntario,neutral,1,0,0,2,0,0.8906703,0.63349825,positive,positive,negative,positive
+56,"Effects 137,000 women + Illegal 30 years, no-one in Britain yet convicted of FGM #disgraced",neutral,1,2,1,0,2,0.5051234,0.5210429,negative,neutral,positive,negative
+180,"""@TV_Exposed: Tom Cruise sitting on top of Burj Khalifa for Mission Impossible: Ghost Protocol @FeyikemiA_B",neutral,1,1,1,0,2,0.80850965,0.66104764,neutral,neutral,positive,negative
+396,Only 6 months until 5SOS performs at @ThePavilion_TX !!!! #RockOutWithYourSocksOut #Ecstatic #Pumped ?????,neutral,1,0,0,0,0,0.72707504,0.889246,positive,positive,positive,positive
+516,Look at all the people who get more money than us. #studentathletes #bitter,neutral,1,2,0,2,2,0.6934349,0.7303262,negative,positive,negative,negative
+627,RT @ASEIFZ: World stunned by #RCavalli confined to #JustCavalli delays to #TakeOffJustLogo and Confusion @SPIEGELTV #sufiright,neutral,1,0,2,2,2,0.7544732,0.53291136,positive,negative,negative,negative
+669,"RT @AmnestyOnline: Ask @khamenei_ir to #SaveSaman, tortured for 97 days at 17, now facing execution in 5 days. #StopTorture",neutral,1,2,2,0,2,0.6017048,0.6122989,negative,negative,positive,negative
+678,RT @Dinki777: #FreeLolita Trapped in tiny concrete tank for decades. https://t.co/sGGQXtzYZd #BlackFish #WorldWhaleDay,neutral,1,0,2,2,2,0.7916708,0.7542251,positive,negative,negative,negative
+825,#broken #flat #edges #shuffle #white #thin #gram #grain,neutral,1,1,1,2,1,0.52882403,0.899857,neutral,neutral,negative,neutral
+1068,Test glazed #tea #teapots #ceramics #cornwall #krowji #whiteglaze #craft #handcrafted #thrown #clay #purmorencrafts,neutral,1,2,0,0,0,0.81011224,0.77732915,negative,positive,positive,positive
+1196,#tricopterv3 #humedam #kk2.1 #afroesc #zippy #gopro #spektrum #dx6 #ar610 #hobbyking #fpv #immersionrc #fatshark #t��,neutral,1,1,2,0,0,0.42092735,0.66690093,neutral,negative,positive,positive
+1251,#bobbyvan ... Always reminded !! @Nessie_Bear79 :( always a sign but for what reason ?!?! Smh #tortured,neutral,1,0,0,1,0,0.8999656,0.6057682,positive,positive,neutral,positive
+1310,"Luxury haircare for dry, damaged hair #paulmitchell #haircare #coloured #damaged #hair",neutral,1,0,0,2,0,0.7189555,0.93523717,positive,positive,negative,positive
+1397,@RehamKhan1 @chillimilli93 @ghazalamian20 @ShirazieN Pakistani leaders don't pay taxes citing good reason.#disgraced,neutral,1,0,1,0,2,0.8761892,0.7744893,positive,neutral,positive,negative
+1579,@rjfapelacio nanggahot. Haha. :P #euro #impotent,neutral,1,0,0,0,1,0.6200979,0.5029482,positive,positive,positive,neutral
+1866,#KanyeWest #Kanye #KimKardashian #NorthWest #PornStar #Trash #LoL #Kanyeisadouchebag #kanyeisanidiot #desperate,neutral,1,2,2,2,2,0.39072016,0.69252354,negative,negative,negative,negative
+2077,RT @InsideLaLiga: Dejected Leo Messi staring at 2014 World Cup trophy wins World Press Photo of the year -,neutral,1,2,0,2,2,0.48750684,0.8962478,negative,positive,negative,negative
+2153,RT @Hahosani: ?? ??????? ?????? #????_?????? ?? ????? ???? ??????,neutral,1,0,0,2,2,0.61267316,0.8387348,positive,positive,negative,negative
+2361,Heinz spectacularly miss the point over anti-dad accusations. #dadsareparentstoo,neutral,1,2,0,0,0,0.5904861,0.74400944,negative,positive,positive,positive
+2366,black MICHAEL KORS designer handbag shoulder bag hobo purse leather gold detail - Full rea��,neutral,1,1,1,0,1,0.9471118,0.64715004,neutral,neutral,positive,neutral
+2499,RT @BadgerBalmUK: Beat #midweek blues & #win Badger Cheerful Mind Balm. RT & follow @BadgerBalmsUK to enter. UK only Closes 12/07/2015. htt��,neutral,1,0,0,1,1,0.4919899,0.99314696,positive,positive,neutral,neutral
+2561,"When You Cut Ice Cream Instead of Scooping, Something Awe...",neutral,1,2,1,1,1,0.67464364,0.8103847,negative,neutral,neutral,neutral
+2636,RT @Apostrophe99: Deserted by Zosia Prominska Tumblr #blackandwhitephotography,neutral,1,2,2,2,2,0.43131095,0.7985544,negative,negative,negative,negative
+2710,RT @dontlivesmall: The power of yoga to reframe disordered thinking! #yoga #edrecovery #eatingdisorders @cakespy htt��,neutral,1,0,1,1,1,0.66068995,0.66674805,positive,neutral,neutral,neutral
+2717,Why are you feeling dispirited? Take the quiz:,neutral,1,1,1,2,2,0.4774628,0.91896766,neutral,neutral,negative,negative
+2720,Why are you feeling dispirited? Take the quiz:,neutral,1,1,1,0,2,0.4774628,0.51606125,neutral,neutral,positive,negative
+2731,#CITIZENSOFHUMANITY Men100% Cotton Size 34W x 29L #Distressed Blue #Jeans #Relaxed via @eBay,neutral,1,1,1,1,1,0.8789306,0.89922726,neutral,neutral,neutral,neutral
+2786,RT @LACoLifeguards: @lacolifguards in #VeniceBeach made 89 rescues yesterday due to the elevated surf!! Check in w/ a #lifeguard!,neutral,1,2,0,0,0,0.5842712,0.9992855,negative,positive,positive,positive
+2796,Avon Grape Bud Vase Skin So Soft Empty Bottle 1973 Original Box #Bonanza #Avon,neutral,1,0,0,0,0,0.53648233,0.9196799,positive,positive,positive,positive
+3041,LEFT OEM BMW 5/6 SERIES E60/E61/E63/E64 645 650 Auto DIM HEATED MIRROR GLASS LH,neutral,1,1,1,0,1,0.8552749,0.8667581,neutral,neutral,positive,neutral
+3056,RT @VincenTimes: Le mec n'a pas boug�� en 6 ans,neutral,1,0,1,1,1,0.54761565,0.8378873,positive,neutral,neutral,neutral
+3063,n?o conseguimos resistir a fazer umas compras para a nossa cole??o e isto �� apenas o que eu trouxe para casa,neutral,1,2,0,0,0,0.62761366,0.8883241,negative,positive,positive,positive
+3073,14k 3 Tone Gold 15 mmx 6 mm Huggy Huggies Hinged Hoop Earrings,neutral,1,1,1,0,1,0.94531435,0.82904327,neutral,neutral,positive,neutral
+3329,VANS Mohikan Camel Suede Women's Fashion Sneakers Size 9.5 Medium - Full read by eBay,neutral,1,1,1,0,0,0.98705506,0.91476715,neutral,neutral,positive,positive
+3577,"Elvis Presley 7"" Single - All Shook Up",neutral,1,0,0,2,1,0.7944852,0.4866693,positive,positive,negative,neutral
+3612,If @TMobile put a Soft Cap on Simple Choice Plans... Then @JohnLegere have preference with me #TrulyUnlimited,neutral,1,0,1,1,1,0.6596836,0.64275163,positive,neutral,neutral,neutral
+4047,#DefundPP #PJNET http:/��,neutral,1,2,1,1,1,0.5859851,0.99436176,negative,neutral,neutral,neutral
+4088,$89.95 ?�� http://t.co/GXppO5gJYW,neutral,1,2,1,1,1,0.89785516,0.98843306,negative,neutral,neutral,neutral
+4091,Cars #Deals HERE > http://t.co/7p3Op2ywxZ #91 20pc Set Red Black Auto Car Seat Covers Wheel Cover + Head Rests + �� http://t.co/3LqNJqnN1n,neutral,1,1,1,1,1,0.6830434,0.9871788,neutral,neutral,neutral,neutral
+4095,New Wired USB Game Pad Controller For Microsoft Xbox 360 Black Free Shipping - Full read b�� http://t.co/mcvLfsGPKd http://t.co/T0mxqiEO5O,neutral,1,1,1,1,1,0.6561546,0.9960337,neutral,neutral,neutral,neutral
+4098,RT @N407_official: BUGSY T-shirt (black) http://t.co/zE8SNoAjwY,neutral,1,1,1,0,1,0.8092033,0.5946662,neutral,neutral,positive,neutral
+4102,Cell Phone USA : BlueAnt Ribbon Stereo Bluetooth Streamer Bluetooth Headset Black/Blue #44�� http://t.co/zjMxpiy5qZ http://t.co/SxsErQydyL,neutral,1,1,1,0,1,0.9919789,0.56229913,neutral,neutral,positive,neutral
+4110,Cell Phone USA : A18 Bluetooth Smart Wrist Watch Phone Mate for Cell Phone SIM Card Black �� http://t.co/8XbNxnpx1Z http://t.co/ysiiTr7Mhf,neutral,1,1,1,2,1,0.94865274,0.6968591,neutral,neutral,negative,neutral
+4142,Bell Variant MTB Bike Cycling Helmet Small S 52-56cm Matte Black New Blemished http://t.co/iSyHpWQMGy http://t.co/nmWwxsCIPh,neutral,1,1,1,0,1,0.9554936,0.51530176,neutral,neutral,positive,neutral
+4558,RT @BlackAurora_: LOOOK. http://t.co/82ZtGOROoX,neutral,1,0,2,2,2,0.57243794,0.63354355,positive,negative,negative,negative
+4662,RT @charlotteagenda: Two opportunities to shop @VTGCLT Summer Market before the crowds this weekend: http://t.co/PPBRCqPjcC http://t.co/dwC��,neutral,1,0,0,0,0,0.9180128,0.37423754,positive,positive,positive,positive
+4911,@wasy_invalid �� ���ܧ��ܧ� �٧ѧߧ֧� �C �ӧ�� �ӧ֧է� �ԧѧ�! http://t.co/HCbj0djqsh,neutral,1,0,0,2,0,0.74509627,0.87996536,positive,positive,negative,positive
+110,"��@preishaaaa: ""@OverlyLiked: Bruh ??? im done.",negative,2,0,2,1,0,0.41661897,0.892535,positive,negative,neutral,positive
+134,#Dismal #monology by #Olavi #Paavolainen vs Dismal #SaltyLiquorice by @oypoppamies.,negative,2,1,0,0,2,0.62681246,0.4942293,neutral,positive,positive,negative
+169,RT @HandsomeFellowG: When you get excited to watch the Grammys and you get told Rhianna is performing..,negative,2,2,0,2,0,0.49495003,0.9457436,negative,positive,negative,positive
+370,"RT @___Danno: Innocent until proven guilty? #MacKay's ""murderous misfits"" quip could cause mistrial #cdnpoli",negative,2,0,2,0,2,0.8417154,0.8222392,positive,negative,positive,negative
+425,RT @thedailybeast: Argentina's president could go to jail.,negative,2,0,2,0,2,0.98772603,0.9750821,positive,negative,positive,negative
+597,"RT @Nabulax: The attacker was shouting ""I am your god, I am your Islam�� as he stabbed the man to death. #JusticeForMuslims",negative,2,2,2,2,2,0.813778,0.8492613,negative,negative,negative,negative
+602,Startled starlings at Ballanette today @ManxBirdLife @wildlife_uk,negative,2,0,1,2,2,0.73229444,0.9285718,positive,neutral,negative,negative
+657,Train carriage all to myself today! #offpeak #publictransport #empty #train #queenslandrai��,negative,2,0,1,2,2,0.6666839,0.6332217,positive,neutral,negative,negative
+667,RT @SethTisue: not too pleased with the US Postal Service right now #freejazz #destroyed,negative,2,2,0,2,1,0.40032673,0.505888,negative,positive,negative,neutral
+680,"RT @ZainaErhaim: I was here when this barrel bomb hit Shaar market. It could've been me, turned into another victim of #AssadHolocaust http��",negative,2,2,2,0,2,0.719306,0.570712,negative,negative,positive,negative
+689,houseguest coming to stay so I thought I'd tidy. It's turned into a mass sorting session.,negative,2,0,2,1,1,0.57019615,0.6224452,positive,negative,neutral,neutral
+699,RT @AwakenDMT: He has a point..,negative,2,0,0,1,0,0.47014415,0.9027655,positive,positive,neutral,positive
+783,RT @ChadJordan23: When you confidently yell out the wrong answer in class...,negative,2,2,2,2,2,0.43083185,0.5992214,negative,negative,negative,negative
+818,"RT @nanann_x: and waiting, and waiting. #cassieainsworth #skins #skinsuk #hannahmurray #im #waiting #anorexic #depressed #skinspure",negative,2,2,2,0,0,0.60717183,0.36244676,negative,negative,positive,positive
+838,#rwilly @rwillyofficial #hellagrip #smith #feeble #f��,negative,2,2,1,2,2,0.34481925,0.8104416,negative,neutral,negative,negative
+882,RT @BRAINxTRUST: #Grim band lofo of the day: @BioCancerThrash,negative,2,2,0,0,1,0.51799834,0.6503463,negative,positive,positive,neutral
+922,@mzansiplates not sure how to caption this... #horrified,negative,2,2,2,1,2,0.57880944,0.48893318,negative,negative,neutral,negative
+923,#Horrified #BMovie #Victims #Playset #Swagshop,negative,2,2,2,2,2,0.9548885,0.7123884,negative,negative,negative,negative
+1046,RT @ChaosChloe: #Chaotic Mind!! That was really heart felt. Thank u @SPARCEO,negative,2,0,0,0,0,0.9794947,0.89299655,positive,positive,positive,positive
+1087,@cleethorp_es by emmal940 Fifty shades of grey on #cleethorpes #beach #bleak #winter #walks #springerspaniel #home,negative,2,2,2,0,0,0.35722548,0.76511633,negative,negative,positive,positive
+1138,Bit of bleakness. ? #bleak #blackandwhite #columns #trees,negative,2,2,2,2,2,0.8917967,0.9060455,negative,negative,negative,negative
+1218,RT @AlArabiya_Eng: #Anger management: How to stop rage ruining your life #AngerProblems,negative,2,2,2,0,0,0.68765765,0.98053694,negative,negative,positive,positive
+1247,The boys laying on the ledge. #Tortured #DCFS,negative,2,2,2,0,2,0.76898044,0.9753269,negative,negative,positive,negative
+1254,Frozen lake at uni #wherearetheducks #trapped,negative,2,2,2,0,2,0.6275666,0.8111614,negative,negative,positive,negative
+1286,#broken #perp #noedges #randomcolor #grain,negative,2,1,2,2,2,0.5104397,0.9684079,neutral,negative,negative,negative
+1288,RT @DanielGennaoui: 8 pictures taken a second away from disaster: #pictures #amazing #crazy,negative,2,0,0,0,0,0.5697629,0.828548,positive,positive,positive,positive
+1399,#anorexic #thinspo #thin #sadquote #depressed #fat #ugly #worthless #dead #skinny,negative,2,2,2,0,0,0.84332985,0.9295811,negative,negative,positive,positive
+1404,#Tagline #Disney #dismal #RooneyMara #EverRacistLand,negative,2,0,1,0,0,0.54795647,0.84609485,positive,neutral,positive,positive
+1410,Creating #Distressed & #Vintage Effects w/ #Photoshop�� my new @lynda .com course,negative,2,1,0,2,0,0.707172,0.8048829,neutral,positive,negative,positive
+1417,RT @Mummydee23: Worship my feet you #pathetic #worthless #footboys get and lick the dirt and sweat off my #dirty #Soles #footfetish,negative,2,0,2,0,2,0.89324856,0.83678347,positive,negative,positive,negative
+1460,None political worker frm other party can beat #PPPJiyalas #DieHard #Emotional #Enthusiastic #PPPPunjab #AzadiCamp,negative,2,2,2,2,2,0.74168056,0.8215554,negative,negative,negative,negative
+1544,@Tesco found a hair in your cashew nuts #grim,negative,2,2,2,0,0,0.47157648,0.9833175,negative,negative,positive,positive
+1730,Had to be rescued off the mountain! #skiingitaly #mortified,negative,2,0,2,2,2,0.60215366,0.5773556,positive,negative,negative,negative
+1754,#UK 10 councils named and #Shamed for paying staff less than Living Wage,negative,2,1,1,1,1,0.9619058,0.76186204,neutral,neutral,neutral,neutral
+1780,Breathtaking Photos of Abandoned Places,negative,2,2,0,2,2,0.6690597,0.9759864,negative,positive,negative,negative
+1838,#InternshipSearch #Internship #PublicRelations #MasterStudent #NeedInternship #Help #Desperate,negative,2,2,0,2,2,0.7114391,0.9451186,negative,positive,negative,negative
+1910,CRKT MARTINEZ ULTIMA 2125KV VEFF TANTO TITANIUM NITRIDE KNIFE - BLEMISHED - $140,negative,2,1,1,1,1,0.8918589,0.96841574,neutral,neutral,neutral,neutral
+1924,"""@GracieSamuels: Don't wake up on May 8th and the loss of our NHS and the nation's broken heart #GetCameronOut",negative,2,2,2,0,2,0.9206723,0.84782904,negative,negative,positive,negative
+1940,#Repository by ... - #Abandoned #BeautyInDecay #Dark #Darkness #Daylight #Dead,negative,2,2,2,0,2,0.9309316,0.9529833,negative,negative,positive,negative
+1943,RT @trscoop: HORRIFIC: ISIS parades 17 captured Kurdish fighters to be BURNED ALIVE,negative,2,2,2,2,2,0.98963904,0.96991134,negative,negative,negative,negative
+1945,RT @JRehling: An Islamic center in Houston was burned down this morning in the land of the free and the home of the brave.,negative,2,2,2,2,2,0.8105103,0.9193174,negative,negative,negative,negative
+1977,Seriously @EASPORTS_MUT @MUTGuru @Schautz47 this has got to go #worthless #eliminatethewaste,negative,2,1,1,1,0,0.7387695,0.68217576,neutral,neutral,neutral,positive
+2001,""" There's certainly nothing compassionate about blaming someone for being stuck behind those walls.""",negative,2,2,2,2,2,0.9786508,0.8607298,negative,negative,negative,negative
+2040,#kite #gradient #edges #black #thin #gram #grain,negative,2,1,1,2,1,0.51901853,0.98752326,neutral,neutral,negative,neutral
+2073,@MattSmith1230 @ProFlowers The flowers look like a dejected King Tritan:,negative,2,0,0,1,0,0.6295373,0.9058027,positive,positive,neutral,positive
+2087,Boxer beats up gang of thugs after they harass his wife: #fight #crazy,negative,2,2,2,0,2,0.754974,0.64466006,negative,negative,positive,negative
+2107,"@gallowsofficial just pre ordered ""desolate sounds"".... now to play the waiting game",negative,2,0,2,2,2,0.44665378,0.61001635,positive,negative,negative,negative
+2115,@TrippyPip use only if desperate,negative,2,2,0,0,1,0.7052198,0.78817475,negative,positive,positive,neutral
+2313,"RT @aolgujarat: #GuruPooja108 -23: At the residence of an ardent devotee, Harsh! Adding gratitude to the spirit of service!",negative,2,2,0,2,0,0.8621825,0.5658098,negative,positive,negative,positive
+2340,RT @Marmel: Jeb Bush all baffled by smart black President.,negative,2,0,1,2,2,0.5092547,0.76745975,positive,neutral,negative,negative
+2478,"RT @Independent: Bryan Cranston totally, utterly burned a Breaking Bad fan at Comic-Con",negative,2,2,2,2,2,0.6467217,0.7080328,negative,negative,negative,negative
+2496,sorn seavmey was cheapened by government,negative,2,2,0,0,0,0.7149889,0.9065783,negative,positive,positive,positive
+2547,The Terrifying True Story Of How An Innocent Balloon Festival Crippled A City For Weeks -,negative,2,2,2,0,0,0.7672017,0.3906511,negative,negative,positive,positive
+2586,Defeated by onedance #deathbygarage #deathbydnb,negative,2,2,1,2,2,0.6182748,0.5210737,negative,neutral,negative,negative
+2618,Baltimore's next police chief faces demoralized department,negative,2,2,2,0,2,0.99146104,0.6927392,negative,negative,positive,negative
+2651,"?Buster is still missing..Appleby Magna,Leics.....owners are desperate..please retweet..thank you?",negative,2,0,2,2,2,0.88478893,0.9409758,positive,negative,negative,negative
+2673,RT @RaviSinghKA: The moment I told this Bosnian man that we (Khalsa Aid )will rebuild his floods destroyed house in 2014. #humanity,negative,2,2,2,0,2,0.9115021,0.8613933,negative,negative,positive,negative
+2685,RT @Pet360: Devoted Man Reunites With #Dog After Struggle with Homelessness,negative,2,2,0,2,2,0.58283675,0.7668905,negative,positive,negative,negative
+2693,The unfazed and the disconcerted.,negative,2,2,0,2,0,0.65093184,0.624178,negative,positive,negative,positive
+2714,RT @shishalhChief: I think the BC Government has made some very poor decisions in fighting forest fires. Disorganized and dangerous,negative,2,2,2,0,2,0.96363074,0.54235786,negative,negative,positive,negative
+2746,Still feeling mildly disturbed by this fountain at Dom Jesus with the water coming out of its eyes... Seriously: why?,negative,2,1,2,2,2,0.8353636,0.9419779,neutral,negative,negative,negative
+2747,Why am I so disturbed at the jiggly croc bounce house?,negative,2,2,2,0,0,0.63807845,0.4487903,negative,negative,positive,positive
+2774,RT @AwDoll: We arrive in Rhamu and the crowds get ecstatic #WalkOfHope,negative,2,0,0,2,0,0.67608154,0.84325415,positive,positive,negative,positive
+2794,"RT @TheRealYoungZel: 1.The clip empty 2.Nigga is that a dildo???RT""@_iMcNasty: Let a nigga try me ??""",negative,2,2,0,1,1,0.5803566,0.99516654,negative,positive,neutral,neutral
+2848,Solved the tricky issue of Wisden storage in new house. Exasperated wife not pictured. #malesolutions #cricket,negative,2,1,1,2,1,0.5127012,0.8871714,neutral,neutral,negative,neutral
+2944,RT @1D_Updates_WW: Harry telling us to stomp then getting flustered when his boots were on screen -I,negative,2,2,1,1,1,0.8729961,0.99748576,negative,neutral,neutral,neutral
+3058,RT @michell57319641: Most normal people are horrified by those who use dogs on foxes or other wildlife #KeepTheBan h��,negative,2,2,2,2,2,0.9367804,0.65427047,negative,negative,negative,negative
+3060,"holy shit esta foi a primeira que os mogwai tocaram ontem, grande parte do set at�� foi deste ��lbum",negative,2,2,2,0,0,0.35249886,0.71810824,negative,negative,positive,positive
+3087,"RT @thenation: Who's worse��the narcissistic real estate developer or the narcissistic, ill-tempered governor? http:/��",negative,2,0,2,2,2,0.94242036,0.9258941,positive,negative,negative,negative
+3105,RT @ithurtstopoop: Not cool. You know im impotent #PS4share,negative,2,2,2,0,2,0.5982464,0.510573,negative,negative,positive,negative
+3108,Abe apni aukad me raho ... Your impotent army can only send terrorist but cant fight F2F,negative,2,2,2,0,0,0.60406315,0.81250495,negative,negative,positive,positive
+3139,@belalandry clarification for the culturally inept,negative,2,2,1,2,2,0.7854394,0.8189231,negative,neutral,negative,negative
+3197,RT @stopeatingcats: Not just an isolated case in S.korea -cat set on fire runs across car park seen on CCTV last year.,negative,2,2,2,2,2,0.97562385,0.6523499,negative,negative,negative,negative
+3207,RT @weebconfesses: DID NOBODY ELSE NOTICE LIGHT YAGAMI IN DEATH PARADE ABOUT TO BE JUDGED AT VIGINTI? (Ep 11),negative,2,2,2,2,2,0.61065,0.48971194,negative,negative,negative,negative
+3213,RT @hanbeau3: 12 inch kneeling jumpy squat thing! #yeahboi #skills #cfem #girlswholift #girlsthatdocrossfit @CFEM16,negative,2,1,0,0,2,0.7160464,0.640166,neutral,positive,positive,negative
+3394,RT @MasterDalK: .@_alexel_ @mr_mortified Im not judging,negative,2,0,2,1,1,0.51383877,0.7987024,positive,negative,neutral,neutral
+3444,Overwhelmed by #ContentMarketing? Start with a clear strategy by asking yourself the following ��,negative,2,1,1,0,0,0.97878575,0.9733515,neutral,neutral,positive,positive
+3505,RT @InSightCrime: #Chapo's escape could paralyze .@EPN administration in terms of security policy. Our analysis http��,negative,2,2,2,1,2,0.5902133,0.5921161,negative,negative,neutral,negative
+3549,RT @Kaylz1Dfangirl: I don't know if I should be scared or not?!The suspension in this video is killing me!!? #RaphasSecret,negative,2,2,2,2,2,0.79573107,0.64851004,negative,negative,negative,negative
+3551,"RT @PhxKen: IN THE BEGINNING OF A CHANGE, THE PATRIOT IS A SCARCE MAN, BRAVE, HATED, AND SCORNED. WHEN HIS CAUSE SUCCEEDS, THE..",negative,2,2,2,2,2,0.82327604,0.90768766,negative,negative,negative,negative
+3644,"Running clothes, gum in mouth, guac, bananas, sweet potato fries, and sparkling water. My life in one photo. ???",negative,2,0,0,0,0,0.9616183,0.9045317,positive,positive,positive,positive
+3661,The nun relates a spiteful accident about husband and wife.,negative,2,2,2,2,2,0.57512534,0.8409708,negative,negative,negative,negative
+3714,wile Messiah taut His Set Apart Name..,negative,2,2,0,1,0,0.6388855,0.45465645,negative,positive,neutral,positive
+3727,RT @YouTube: Feeling testy? https://t.co/bN2BlR1xmX,negative,2,0,2,2,2,0.6214982,0.6659596,positive,negative,negative,negative
+3736,"RT @VoLiberty: Video Proves Ex-SWAT Cop Lied, Threatened to Break Teen's Neck: #tlot #tcot #PoliceState",negative,2,2,2,0,2,0.88316846,0.7623651,negative,negative,positive,negative
+3770,RT @AEJKhalil: Thousands of Detainees are tortured to death by Assad Regime #Syria #SaveTheRest,negative,2,2,2,2,2,0.9744995,0.83321136,negative,negative,negative,negative
+3774,.@theipaper Pls sign petition 1000's of Puppies tortured too for noodles! #StopBoknal2015,negative,2,2,2,0,0,0.7347298,0.63706225,negative,negative,positive,positive
+3778,.@TheEconomist Some Koreans believe eating tortured dogMeat makes them virile #StopBoknal2015,negative,2,2,2,2,2,0.50432676,0.88508004,negative,negative,negative,negative
+3782,"RT @moorehn: Agh! RT @dodo: Dallas flood leaves ""river monster"" trapped in fence",negative,2,2,2,0,2,0.9370636,0.9523983,negative,negative,positive,negative
+3784,RT @TheSyriaCmpgn: ...Killing 23 civilians. Do something for those trapped in the rubble by donating: https://t.co/3xxOCAjJqS,negative,2,2,2,1,2,0.8353213,0.5951896,negative,negative,neutral,negative
+3787,Dont spend ur life trapped in boxes. #BehindTheScenes #beYOUtiful #musicvideo #NewYork #MusicWithaMessage #indiemusic,negative,2,2,2,0,0,0.90936065,0.96042573,negative,negative,positive,positive
+3838,RT @ASAPTrilllifee: BRO ON GOD THIS HOE USED TO EAT ??,negative,2,0,0,0,0,0.6987013,0.85726553,positive,positive,positive,positive
+3878,When you're a washed up athlete and its softball playoffs... You start stretching a hour and half before the game ?,negative,2,2,2,2,2,0.7135161,0.76069844,negative,negative,negative,negative
+3947,Let's just say the other team got wrecked,negative,2,2,1,1,1,0.4455865,0.938352,negative,neutral,neutral,neutral
+3951,RT @Retro_Spectro_: When being transracial goes wrong ?????,negative,2,2,1,0,0,0.6531287,0.83462906,negative,neutral,positive,positive
+4038,"RT @haaretzcom: American Jews frustrated, alienated by Israel��s religious government http://t.co/yLBMsrAjyd http://t.co/Ww66FQMs46",negative,2,2,2,2,2,0.96165854,0.70317394,negative,negative,negative,negative
+4048,I am appalled! RT @tlalane: #Benzema http://t.co/y0J6JFZmyG,negative,2,0,2,2,2,0.8675674,0.92585427,positive,negative,negative,negative
+4157,7.50/8.00-16 10PLY INDUSTRIAL F-3 BLEMISHED FRONT TIRE http://t.co/vmxOxCFiVG http://t.co/1q8rw92tru,negative,2,1,1,1,1,0.5564109,0.9276463,neutral,neutral,neutral,neutral
+4160,7.60-15 BLEMISHED 6PLY PLANTER TIRE http://t.co/iJxaPr1606 http://t.co/G42WYVzCyU,negative,2,2,2,1,1,0.5633387,0.9987476,negative,negative,neutral,neutral
+4168,HUGE Littlest Pet Shop LOT 72 Pcs Puppy Dogs Cats Bunny BLEMISHED - Full read by eBay http://t.co/3UtUUqf4E2 http://t.co/h6u1NVpWrw,negative,2,1,1,0,0,0.8051589,0.9441763,neutral,neutral,positive,positive
+4185,When the AC in your room is broken and you hitting shawty from the back. http://t.co/jn8OgtKiTd,negative,2,2,2,2,2,0.7043016,0.49908388,negative,negative,negative,negative
+4194,RT @diraholanda: @toucans_burned @DionioRamos Heimmmm Chamou? ? JS? JOGO SUJO? �� iiisssso? http://t.co/G0uIWXLsAw,negative,2,0,0,0,2,0.685405,0.5522144,positive,positive,positive,negative
+4195,Did u know anti-Muslim attacks spiked after #chapelhill? http://��,negative,2,2,2,2,2,0.86552143,0.5134803,negative,negative,negative,negative
+4222,RT @Qe9e_: http://t.co/uCOjbXSQAe,negative,2,0,0,0,2,0.6122193,0.5641194,positive,positive,positive,negative
+4265,100 MILLION animals POISONED BURNED CRIPPLED in US labs each year. SO WRONG! http://t.co/Dp25lRT8hh via @LIONS4Mercy  #BanVivisection,negative,2,2,2,0,2,0.97545683,0.7151021,negative,negative,positive,negative
+4331,True confessions of a delinquent #dog owner in the 'live free or die' state http://t.co/XYlr3wIbSm @mht_nh_police http://t.co/9SSR2FmPuB,negative,2,2,2,2,2,0.82461524,0.4849453,negative,negative,negative,negative
+4347,Alzheimers Depression Link - http://t.co/orqIP5oKPO - http://t.co/u7ph6hV5rH #health #dementia #AD,negative,2,2,1,0,0,0.9563293,0.97744423,negative,neutral,positive,positive
+4349,"RT @SnootcheBootche: If we gonna do this Wednesday Depression thing, may as well go all out!! #depro #Vodka #Pizza #BluesGuitar #idgaf http��",negative,2,0,2,0,0,0.6430013,0.9365524,positive,negative,positive,positive
+4355,"Does A Commodities Crash Mean Global Depression, Mass-Devaluation Or Both? http://t.co/MRR0SBxZ7S http://t.co/PF8ZuQOt1d",negative,2,1,1,1,1,0.53099036,0.88366425,neutral,neutral,neutral,neutral
+4376,Why are you feeling despondent? Take the quiz: http://t.co/X8enSTDais http://t.co/rqGpV7QFfs,negative,2,1,2,2,0,0.45584106,0.4961557,neutral,negative,negative,positive
+4380,Why are you feeling despondent? Take the quiz: http://t.co/bASVsxv3y4 http://t.co/Tuz5ncFK9g,negative,2,1,2,2,2,0.45584106,0.7878854,neutral,negative,negative,negative
+4393,"RT @Tentuil: David ""I'm A 1/8th Jew"" Cameron Demands Anti-Jew Theories Be Destroyed http://t.co/nVTPYlLvrD http://t.co/Dfta4FZHBG",negative,2,2,2,2,2,0.9654697,0.79828906,negative,negative,negative,negative
+4457,Why do you get distressed so much? Take the quiz: http://t.co/rfXJHa5Vj2 http://t.co/NMtjCVoxsd,negative,2,2,2,0,2,0.57996154,0.55203694,negative,negative,positive,negative
+4488,д��⥵����⤢�꤬�Ȥ��������ޤ��� http://t.co/fbomMMhltE,negative,2,0,0,1,2,0.49225616,0.7200466,positive,positive,neutral,negative
+4543,"RT @Forbes: From shopping malls to soccer stadiums, hundreds of new cities in China are largely empty: http://t.co/cMgvBTjPSW http://t.co/y��",negative,2,0,2,2,2,0.6745874,0.7583844,positive,negative,negative,negative
+4598,http://t.co/GPHxPcMFDz http://t.co/ldk5zYjBgv,negative,2,0,2,1,2,0.5170469,0.64542246,positive,negative,neutral,negative
+4640,#ashverse http://t��,negative,2,0,2,2,2,0.62438595,0.9845132,positive,negative,negative,negative
+4696,RT @sow_ay: Custom Forsaken cymbal. http://t.co/TtN2JHYnM0,negative,2,2,1,1,1,0.8706987,0.9573397,negative,neutral,neutral,neutral
+4708,RT @The4GNet: Black Pastor Protests Outside NAACP With Poster That Has Liberals Fuming http://t.co/Y2il7VEGuG http://t.co/wJXWemAcsR,negative,2,0,2,2,2,0.87864965,0.40596494,positive,negative,negative,negative
+4716,@amyhunterywca Brings Diversity to #STEMTQ2015 @STEMpactSTL Let's talk about it http://t.co/hTNnXR61Y9,negative,2,2,0,1,0,0.8108247,0.40393665,negative,positive,neutral,positive
+4762,RT @IamAkademiks: The Grim Reaper posted up in Chiraq with the 5 star War General. Caption sneak dissing Montana of 300? http://t.co/kR6nTc��,negative,2,0,2,1,2,0.50323474,0.5434821,positive,negative,neutral,negative
+4797,"RT @Ginger_Zee: Cold air funnel:Monette,AR;heated land + low level wind coming together under showers/storms;Billy Gathright http://t.co/p8��",negative,2,2,1,2,2,0.8300159,0.818476,negative,neutral,negative,negative
+4841,RT @cartyair_: Drake said let me not hurt myself? http://t.co/5jPeRbeIqc,negative,2,2,2,2,2,0.8543889,0.62812054,negative,negative,negative,negative
+4850,RT @MurtazaGeoNews: Banned outfits n their front groups collect money 4 'Jihads' abroad n at home - National Action Plan remains impotent h��,negative,2,2,2,0,2,0.87559533,0.76240873,negative,negative,positive,negative
+4854,RT @Protect_Wldlife: Sign & RT: Don't let China host 2019 World Dog Show unless it stops Yulin dog-meat festivals! http://t.co/W5xQCL1Y4Z h��,negative,2,2,2,2,2,0.61698407,0.8186226,negative,negative,negative,negative
+4885,RT @EmWhitham: Instagram has banned #CURVY. The reason why will infuriate you. It certainly infuriated me: https://t.co/Xtxg12TsLW http://t��,negative,2,2,2,0,2,0.77051044,0.8716423,negative,negative,positive,negative
+4887,RT @nytimesworld: More intense and frequent natural disasters displaced 19 million worldwide in 2014. http://t.co/P00ZONXsmo http://t.co/wZ��,negative,2,0,2,2,2,0.85296893,0.5063553,positive,negative,negative,negative
+4915,RT @drewgrandegomez: Your argument that Justin is a bad person is invalid try again #FanArmyFaceOff #Beliebers http://t.co/A6qshWzT1W,negative,2,2,2,2,2,0.6951432,0.7380204,negative,negative,negative,negative
+4943,"Perk of growing up in the Brandywine Valley, Del: Knowing about the American illustrator Howard Pyle (""Marooned"") http://t.co/skcGsSNBV6",negative,2,2,2,2,2,0.73842037,0.55725557,negative,negative,negative,negative
+4958,Castle - standard motorcycle gloves - Womens Medium - Black / 20-2024 http://t.co/xWqbD0KCZz http://t.co/draetUDptD,negative,2,1,1,1,1,0.8625785,0.5783944,neutral,neutral,neutral,neutral
+4974,"RT @thedailybeast: Nine people in Florida have been diagnosed with leprosy (yes, leprosy). The source? Armadillos http://t.co/HKkj4YW4sm ht��",negative,2,0,1,2,2,0.87555516,0.87811875,positive,neutral,negative,negative
+4981,RT @tanutinn: Japan PM mocked on Internet over model explanation http://t.co/xudJ7DM4yr http://t.co/H1Pi371U9E,negative,2,2,2,2,2,0.68744653,0.7751419,negative,negative,negative,negative
+4994,http://t.co/lDKrZ3XozK http://t.co/1VresxOrgz,negative,2,0,2,0,2,0.5170469,0.7886488,positive,negative,positive,negative
+5067,"RT @cyprusmail: Expats left reeling as Barclays close accounts in Cyprus under ?100,000 http://t.co/3mEVluPXpu http://t.co/0pnsMFY26f",negative,2,1,1,0,2,0.6210325,0.5542374,neutral,neutral,positive,negative
+5113,http://t.co/K1gx2h7CE4 http://t.co/��,negative,2,0,2,2,2,0.5170469,0.7123898,positive,negative,negative,negative

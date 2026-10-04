@@ -1,0 +1,113 @@
+[
+  {
+    "id": "3878",
+    "true_label": "negative",
+    "text": "When you're a washed up athlete and its softball playoffs... You start stretching a hour and half before the game ?",
+    "text_prediction": "negative",
+    "top_salient_tokens": [
+      [
+        "a",
+        1.0
+      ],
+      [
+        "and",
+        0.793
+      ],
+      [
+        ".",
+        0.51
+      ],
+      [
+        "washed",
+        0.494
+      ],
+      [
+        "playoffs",
+        0.442
+      ]
+    ],
+    "image_prediction": "negative",
+    "gradcam_heatmap_stats": {
+      "max": 1.0,
+      "mean": 0.2726505994796753,
+      "shape": [
+        224,
+        224
+      ]
+    }
+  },
+  {
+    "id": "4958",
+    "true_label": "negative",
+    "text": "Castle - standard motorcycle gloves - Womens Medium - Black / 20-2024 http://t.co/xWqbD0KCZz http://t.co/draetUDptD",
+    "text_prediction": "neutral",
+    "top_salient_tokens": [
+      [
+        "202",
+        1.0
+      ],
+      [
+        "-",
+        1.0
+      ],
+      [
+        "http",
+        0.694
+      ],
+      [
+        "20",
+        0.627
+      ],
+      [
+        "-",
+        0.535
+      ]
+    ],
+    "image_prediction": "neutral",
+    "gradcam_heatmap_stats": {
+      "max": 1.0,
+      "mean": 0.14403919875621796,
+      "shape": [
+        224,
+        224
+      ]
+    }
+  },
+  {
+    "id": "2010",
+    "true_label": "positive",
+    "text": "RT @Sorayak94: Please, it will only take a second. For each retweet, $1 will be donated to help restore this poor confused child",
+    "text_prediction": "negative",
+    "top_salient_tokens": [
+      [
+        "this",
+        1.0
+      ],
+      [
+        "##wee",
+        0.754
+      ],
+      [
+        "##k",
+        0.477
+      ],
+      [
+        "##raya",
+        0.404
+      ],
+      [
+        ",",
+        0.396
+      ]
+    ],
+    "image_prediction": "positive",
+    "gradcam_heatmap_stats": {
+      "max": 1.0,
+      "mean": 0.2661721110343933,
+      "shape": [
+        224,
+        224
+      ]
+    }
+  }
+]

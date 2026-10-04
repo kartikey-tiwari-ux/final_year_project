@@ -1,0 +1,36 @@
+# Environments
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Secrets
+.env
+
+# Data (raw/processed datasets are large and/or have redistribution restrictions —
+# document provenance in DATASET_SELECTION.md instead of committing the data itself)
+data/raw/*
+data/processed/*
+data/splits/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+!data/splits/.gitkeep
+
+# Trained model weights (large binary artifacts — track configs/metrics, not weights)
+models/*.pt
+models/*.pth
+models/*.bin
+models/*.safetensors
+
+# Logs / scratch
+pip_install.log
+*.log
+experiments/results/*.tmp
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Local tooling state
+.claude/
+.pytest_cache/
