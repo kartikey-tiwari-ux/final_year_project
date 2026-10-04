@@ -21,13 +21,16 @@ link to the artifact that proves them.
 - [x] Error analysis completed — `ERROR_ANALYSIS.md` (confusion matrices, per-class breakdown, class-imbalance analysis, polarity-confusion analysis, false-positive/negative framing)
 - [x] Modality conflict analysis completed — `MODALITY_CONFLICT_ANALYSIS.md` (real finding: fusion's gain concentrates on the 53.3% of test posts where text/image disagree)
 - [x] Explainability implemented — text saliency (`src/explainability/text_saliency.py`) and image Grad-CAM (`src/explainability/image_gradcam.py`), run on real test examples (`src/explainability/generate_examples.py`, `results/explainability_examples/`), limitations documented
-- [x] Application functional — `app/streamlit_app.py` (demo + research dashboard); launched for real (`streamlit run`), server started cleanly with no startup errors, HTTP 200 + health check both passed; interactive click-through (Predict button, model-loading path) not exercised in this automated session — see note below
+- [x] Application functional — `app/streamlit_app.py` (demo + research dashboard); launched for real (`streamlit run`), server started cleanly with no startup errors, HTTP 200 + health check both passed; interactive click-through completed for real via Playwright (real text + a real MVSA test image uploaded, Analyze clicked, model-loading/classifier-refit path exercised end-to-end) — screenshots in `docs/screenshots/` (`01_predict_empty.png`, `02_predict_result.png`, `03_dashboard.png`)
 - [x] Tests executed — 32/32 passing (`TESTING.md`), across seed, text-cleaning, splits, metrics, dataset-loading, and image-preprocessing modules
 - [x] Core planning documentation complete — requirements, literature review, research gap, dataset selection, ethics, architecture, reproducibility, originality
 - [x] Research paper generated — `research_paper/paper.md`, `references.bib` (real results only, 14 verified citations)
+- [x] Research paper converted to IEEE two-column camera-ready PDF — `research_paper/paper_IEEE.pdf` (`research_paper/generate_ieee_pdf.py`), numbered citations for the 8 sources actually cited in-text
 - [x] Project report generated — `docs/FINAL_PROJECT_REPORT.md`
+- [x] Result figures generated from real `results/*.json` and the real manifest — `visualizations/model_comparison.png`, `confusion_matrices.png`, `class_distribution.png`, `modality_conflict.png` (`src/evaluation/generate_visualizations.py`)
 - [x] Viva preparation generated — `VIVA_PREPARATION.md`
-- [x] Presentation content generated — `PRESENTATION_CONTENT.md`
+- [x] Presentation content generated — `PRESENTATION_CONTENT.md`, rendered to an actual deck — `PRESENTATION.pptx`
+- [x] Second-viva "Next Plan" drafted — `NEXT_PLAN.md`
 - [x] No fabricated results — every reported number sourced from an actually-run script's saved output
 - [x] No fabricated citations — `LITERATURE_REVIEW.md` verification note; all 14 sources web-verified
 - [x] No fake dataset — real MVSA data, full provenance chain documented including the detour around a dead official link
@@ -46,12 +49,12 @@ link to the artifact that proves them.
   blindly (`REPRODUCIBILITY.md`).
 - Only a single random seed was used for the neural models (fusion MLP, CNN); run-to-
   run variance across seeds was not characterized given the time/compute budget.
-- The demo app was launched for real and confirmed to start cleanly (HTTP 200, health
-  check OK, no startup traceback), but the interactive flow (typing text, uploading an
-  image, clicking Analyze, which lazy-loads the models) was not click-tested through a
-  browser in this automated session. Recommended before a live presentation/viva demo:
-  run `./venv/Scripts/streamlit run app/streamlit_app.py` and click through both pages
-  once, including an actual Analyze click, to confirm the model-loading path works
-  interactively too.
+- The demo app's interactive flow (typing text, uploading an image, clicking Analyze,
+  which lazy-loads the models and refits the classifier heads) has now been click-tested
+  through a real headless browser session (`docs/capture_screenshots.py`, Playwright) —
+  see `docs/screenshots/`. Still recommended before the live viva demo: run it once more
+  interactively yourself (`./venv/Scripts/streamlit run app/streamlit_app.py`) so you're
+  comfortable narrating it live, since the automated run exercises the code path but
+  isn't a substitute for presenting it yourself.
 - Sentiment labels (not literal mental-health labels) are used throughout as a
   documented proxy — see `ETHICS_AND_PRIVACY.md` for why this boundary is maintained.

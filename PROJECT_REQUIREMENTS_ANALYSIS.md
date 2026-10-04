@@ -105,20 +105,20 @@ Technical research report + academic project demonstration; if results are suffi
 ---
 
 ## MANDATORY REQUIREMENTS
-- [ ] Text-only, Image-only, and Multimodal models all implemented and compared on the same dataset/splits/metrics.
-- [ ] Authentic, legitimately-sourced, properly licensed multimodal dataset (no synthetic/fabricated posts presented as real).
-- [ ] Dataset provenance, label semantics, and licensing documented (`DATASET_SELECTION.md`).
-- [ ] Ethics & privacy documented (`ETHICS_AND_PRIVACY.md`): no PII, no private-account scraping.
-- [ ] Data leakage prevention (train/val/test split discipline, no duplicate leakage, no test-set tuning).
-- [ ] Real literature review with verifiable citations (`LITERATURE_REVIEW.md`) — no fabricated papers.
-- [ ] Defensible, non-overclaimed research gap (`RESEARCH_GAP.md`).
-- [ ] Evaluation beyond accuracy: precision/recall/F1 (macro+weighted), confusion matrix.
-- [ ] Explicit, maintained non-clinical framing everywhere (code, UI, docs, paper, report, slides).
-- [ ] Reproducibility artifacts: requirements file, config files, seeds, experiment logs (`REPRODUCIBILITY.md`).
-- [ ] Working demonstration app (text/image/multimodal prediction + confidence + comparison + non-diagnostic disclaimer).
-- [ ] Tests for preprocessing/pipelines, actually executed (`TESTING.md`).
-- [ ] Originality documentation (`ORIGINALITY.md`) — no verbatim copying of existing repos/notebooks/papers.
-- [ ] Final audit (`FINAL_PROJECT_AUDIT.md`) verifying all of the above against what was *actually done*, not assumed.
+- [x] Text-only, Image-only, and Multimodal models all implemented and compared on the same dataset/splits/metrics.
+- [x] Authentic, legitimately-sourced, properly licensed multimodal dataset (no synthetic/fabricated posts presented as real).
+- [x] Dataset provenance, label semantics, and licensing documented (`DATASET_SELECTION.md`).
+- [x] Ethics & privacy documented (`ETHICS_AND_PRIVACY.md`): no PII, no private-account scraping.
+- [x] Data leakage prevention (train/val/test split discipline, no duplicate leakage, no test-set tuning).
+- [x] Real literature review with verifiable citations (`LITERATURE_REVIEW.md`) — no fabricated papers.
+- [x] Defensible, non-overclaimed research gap (`RESEARCH_GAP.md`).
+- [x] Evaluation beyond accuracy: precision/recall/F1 (macro+weighted), confusion matrix.
+- [x] Explicit, maintained non-clinical framing everywhere (code, UI, docs, paper, report, slides).
+- [x] Reproducibility artifacts: requirements file, config files, seeds, experiment logs (`REPRODUCIBILITY.md`).
+- [x] Working demonstration app (text/image/multimodal prediction + confidence + comparison + non-diagnostic disclaimer).
+- [x] Tests for preprocessing/pipelines, actually executed (`TESTING.md`).
+- [x] Originality documentation (`ORIGINALITY.md`) — no verbatim copying of existing repos/notebooks/papers.
+- [x] Final audit (`FINAL_PROJECT_AUDIT.md`) verifying all of the above against what was *actually done*, not assumed.
 
 ## OPTIONAL / EXTENSIBLE FEATURES (attempt if time/compute allow; explicitly scoped down given CPU-only, low-disk environment)
 - Ablation study across fusion strategies (early/late/attention-based), beyond the minimum text/image/text+image ablation.
