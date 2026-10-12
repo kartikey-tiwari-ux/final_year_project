@@ -20,6 +20,17 @@ fill a slide.
 - Presentation content and an actual slide deck — `PRESENTATION_CONTENT.md`, `PRESENTATION.pptx`.
 - 32/32 automated tests passing — `TESTING.md`.
 - Full viva Q&A prep — `VIVA_PREPARATION.md`.
+- **Study 2 (extension): embedded-text leakage in memes** — full pipeline on a 3,500-meme
+  stratified Memotion subset with a sharp-vs-blurred image ablation (`research_paper_v2/`).
+  Fusion 52.6% acc / 36.6% macro-F1 on sharp memes; blurring costs image-only only 1.4 pp
+  accuracy but fusion 10.9 pp, i.e. most of the fusion gain on memes comes from the image
+  encoder re-reading printed text. Second IEEE-format draft: `research_paper_v2/paper_IEEE.pdf`.
+- **Viva-II documents** — `Extended_Synopsis_Viva2.docx/.pdf` (Research Design +
+  Implementation chapters; built by `docs/generate_extended_synopsis.py`) and
+  `Viva2_Self_Evaluation_Form.docx/.pdf` (built by `docs/generate_self_evaluation.py`).
+  Both need printing and the guide's signature. The self-evaluation content follows the six
+  criteria in the viva notice; transfer it to the official form on the CSE Project Central
+  site if that template's layout differs.
 
 ## What is genuinely still open
 
@@ -57,12 +68,13 @@ fill a slide.
 
 | Date | Task |
 |---|---|
-| Now – 11 Oct 2026 | Supervisor review pass (item 5); live demo rehearsal (item 4); optional multi-seed robustness run (item 1) if time allows |
-| 12–13 Oct 2026 | **Second Project Viva** — present progress, design, implementation, results, this plan |
-| Oct–Nov 2026 | Per synopsis's own schedule this is "implementation completion / experimentation" — already complete here, so this window is redirected to: multi-seed runs (if not done pre-viva), and, time permitting, the cross-modal-attention stretch experiment (item 2) |
-| Dec 2026 | Results analysis / manuscript drafting — already drafted; this window becomes manuscript *refinement* for external readability (item 3) |
-| Jan 2027 | Manuscript/patent draft submission (per synopsis) — contingent on item 3 being complete and a target venue being chosen with the supervisor |
-| Feb–Mar 2027 | Peer-review response, revisions, publication, final report (per synopsis) |
+| 12–13 Oct 2026 | **Second Project Viva**: progress, design, implementation, results (both studies), this plan |
+| Oct 2026 | Multi-seed runs (5 seeds, mean ± std) for both studies + McNemar / bootstrap significance tests (item 1) |
+| Nov 2026 | Study 2 follow-up: OCR-based text-masking ablation (a text-specific check of the blur finding) and full 6,992-meme Memotion run |
+| Nov–Dec 2026 | Cross-modal attention fusion stretch experiment (item 2), only if it does not put the completed comparison at risk |
+| Dec 2026 | Merge Studies 1 and 2 into one self-contained manuscript (item 3) |
+| Jan 2027 | Manuscript submission (per synopsis), venue chosen with the supervisor |
+| Feb–Mar 2027 | Peer-review response, revisions, final report (per synopsis) |
 
 This plan is intentionally conservative: it does not promise new mandatory functionality,
 because none is missing. It lists real, bounded extensions and the one non-technical

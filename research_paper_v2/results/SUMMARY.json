@@ -1,0 +1,223 @@
+{
+  "models": [
+    {
+      "model": "A1 -- TF-IDF + LogReg (text)",
+      "key": "A1_tfidf_logreg",
+      "accuracy": 42.6,
+      "macro_f1": 33.3,
+      "weighted_f1": 43.7,
+      "per_class": {
+        "negative": {
+          "precision": 0.1276595744680851,
+          "recall": 0.2222222222222222,
+          "f1": 0.16216216216216217,
+          "support": 27
+        },
+        "neutral": {
+          "precision": 0.2882882882882883,
+          "recall": 0.29357798165137616,
+          "f1": 0.2909090909090909,
+          "support": 109
+        },
+        "positive": {
+          "precision": 0.578125,
+          "recall": 0.5186915887850467,
+          "f1": 0.5467980295566502,
+          "support": 214
+        }
+      }
+    },
+    {
+      "model": "A2 -- Frozen DistilBERT + LogReg (text)",
+      "key": "A2_distilbert_logreg",
+      "accuracy": 39.4,
+      "macro_f1": 33.4,
+      "weighted_f1": 42.1,
+      "per_class": {
+        "negative": {
+          "precision": 0.11392405063291139,
+          "recall": 0.3333333333333333,
+          "f1": 0.16981132075471697,
+          "support": 27
+        },
+        "neutral": {
+          "precision": 0.319672131147541,
+          "recall": 0.3577981651376147,
+          "f1": 0.33766233766233766,
+          "support": 109
+        },
+        "positive": {
+          "precision": 0.6040268456375839,
+          "recall": 0.4205607476635514,
+          "f1": 0.49586776859504134,
+          "support": 214
+        }
+      }
+    },
+    {
+      "model": "B1 -- CNN from scratch (image, sharp)",
+      "key": "B1_cnn_scratch",
+      "accuracy": 61.1,
+      "macro_f1": 25.3,
+      "weighted_f1": 46.4,
+      "per_class": {
+        "negative": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "support": 27
+        },
+        "neutral": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "support": 109
+        },
+        "positive": {
+          "precision": 0.6114285714285714,
+          "recall": 1.0,
+          "f1": 0.7588652482269503,
+          "support": 214
+        }
+      }
+    },
+    {
+      "model": "B2 -- Frozen ResNet18 + LogReg (image, sharp)",
+      "key": "B2_resnet18_sharp_logreg",
+      "accuracy": 38.6,
+      "macro_f1": 31.0,
+      "weighted_f1": 42.2,
+      "per_class": {
+        "negative": {
+          "precision": 0.05,
+          "recall": 0.14814814814814814,
+          "f1": 0.07476635514018691,
+          "support": 27
+        },
+        "neutral": {
+          "precision": 0.328125,
+          "recall": 0.3853211009174312,
+          "f1": 0.35443037974683544,
+          "support": 109
+        },
+        "positive": {
+          "precision": 0.6267605633802817,
+          "recall": 0.4158878504672897,
+          "f1": 0.5,
+          "support": 214
+        }
+      }
+    },
+    {
+      "model": "B2-Blur -- Frozen ResNet18 + LogReg (image, blurred)",
+      "key": "B2blur_resnet18_blur_logreg",
+      "accuracy": 37.1,
+      "macro_f1": 30.7,
+      "weighted_f1": 39.6,
+      "per_class": {
+        "negative": {
+          "precision": 0.08823529411764706,
+          "recall": 0.2222222222222222,
+          "f1": 0.12631578947368421,
+          "support": 27
+        },
+        "neutral": {
+          "precision": 0.29927007299270075,
+          "recall": 0.3761467889908257,
+          "f1": 0.3333333333333333,
+          "support": 109
+        },
+        "positive": {
+          "precision": 0.5724137931034483,
+          "recall": 0.3878504672897196,
+          "f1": 0.4623955431754875,
+          "support": 214
+        }
+      }
+    },
+    {
+      "model": "C -- Concat Fusion (text + sharp image)",
+      "key": "C_concat_fusion_sharp",
+      "accuracy": 52.6,
+      "macro_f1": 36.6,
+      "weighted_f1": 50.6,
+      "per_class": {
+        "negative": {
+          "precision": 0.13793103448275862,
+          "recall": 0.2962962962962963,
+          "f1": 0.18823529411764706,
+          "support": 27
+        },
+        "neutral": {
+          "precision": 0.3617021276595745,
+          "recall": 0.1559633027522936,
+          "f1": 0.21794871794871795,
+          "support": 109
+        },
+        "positive": {
+          "precision": 0.6489795918367347,
+          "recall": 0.7429906542056075,
+          "f1": 0.6928104575163399,
+          "support": 214
+        }
+      }
+    },
+    {
+      "model": "C-Blur -- Concat Fusion (text + blurred image)",
+      "key": "Cblur_concat_fusion_blur",
+      "accuracy": 41.7,
+      "macro_f1": 33.0,
+      "weighted_f1": 44.4,
+      "per_class": {
+        "negative": {
+          "precision": 0.08955223880597014,
+          "recall": 0.2222222222222222,
+          "f1": 0.1276595744680851,
+          "support": 27
+        },
+        "neutral": {
+          "precision": 0.29914529914529914,
+          "recall": 0.3211009174311927,
+          "f1": 0.30973451327433627,
+          "support": 109
+        },
+        "positive": {
+          "precision": 0.6325301204819277,
+          "recall": 0.49065420560747663,
+          "f1": 0.5526315789473685,
+          "support": 214
+        }
+      }
+    }
+  ],
+  "modality_conflict_analysis": {
+    "n_test": 350,
+    "n_disagree": 221,
+    "pct_disagree": 63.142857142857146,
+    "disagree_subset": {
+      "text_only_acc": 0.37104072398190047,
+      "image_only_acc": 0.3574660633484163,
+      "fusion_acc": 0.5158371040723982
+    },
+    "agree_subset": {
+      "text_only_acc": 0.43410852713178294,
+      "image_only_acc": 0.43410852713178294,
+      "fusion_acc": 0.5426356589147286
+    }
+  },
+  "blur_leakage_analysis": {
+    "blur_validation_metric": {
+      "n_sample": 150,
+      "blur_radius_px": 14,
+      "mean_laplacian_variance_sharp": 2021.6335807767468,
+      "mean_laplacian_variance_blurred": 1.5112493135036205,
+      "pct_reduction": 99.92524613125376
+    },
+    "image_only_accuracy_drop_pp": 1.43,
+    "image_only_macrof1_drop_pp": 0.24,
+    "fusion_accuracy_drop_pp": 10.86,
+    "fusion_macrof1_drop_pp": 3.63,
+    "cblur_vs_text_only_accuracy_delta_pp": 2.29,
+    "cblur_vs_text_only_macrof1_delta_pp": -0.44
+  }
+}

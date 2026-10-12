@@ -1,0 +1,15 @@
+{
+  "blur_validation_metric": {
+    "n_sample": 150,
+    "blur_radius_px": 14,
+    "mean_laplacian_variance_sharp": 2021.6335807767468,
+    "mean_laplacian_variance_blurred": 1.5112493135036205,
+    "pct_reduction": 99.92524613125376
+  },
+  "image_only_accuracy_drop_pp": 1.43,
+  "image_only_macrof1_drop_pp": 0.24,
+  "fusion_accuracy_drop_pp": 10.86,
+  "fusion_macrof1_drop_pp": 3.63,
+  "cblur_vs_text_only_accuracy_delta_pp": 2.29,
+  "cblur_vs_text_only_macrof1_delta_pp": -0.44
+}

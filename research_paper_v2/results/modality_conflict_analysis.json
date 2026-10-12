@@ -1,0 +1,15 @@
+{
+  "n_test": 350,
+  "n_disagree": 221,
+  "pct_disagree": 63.142857142857146,
+  "disagree_subset": {
+    "text_only_acc": 0.37104072398190047,
+    "image_only_acc": 0.3574660633484163,
+    "fusion_acc": 0.5158371040723982
+  },
+  "agree_subset": {
+    "text_only_acc": 0.43410852713178294,
+    "image_only_acc": 0.43410852713178294,
+    "fusion_acc": 0.5426356589147286
+  }
+}

@@ -1,4 +1,4 @@
-# Presentation Content (~18 slides)
+# Presentation Content (23 slides)
 
 ## Slide 1 — Title
 **AI-Driven Multimodal Sentiment Analysis for Mental Health Monitoring on Social Media**
@@ -99,3 +99,12 @@ for B1 — supports our transfer-learning design choice.)
 ## Slide 18 — Future Work & Conclusion
 - Future: multilingual extension, cross-modal attention at scale, genuinely mental-health-labeled multimodal data if it becomes available
 - Conclusion: multimodal fusion provides a real, measurable, but conditional improvement — concentrated where modalities disagree — answering the project's central research question with evidence, not assumption
+
+## Slides added for the Second Project Viva (12–13 Oct 2026)
+The deck (`docs/generate_presentation.py`) now has 23 slides. The added slides are:
+- **Slide 7 — Research Questions:** primary RQ + RQ-a (text), RQ-b (image), RQ-c (modality conflict), RQ-d (memes / embedded text).
+- **Slide 18 — Technical Challenges & Testing:** dead dataset link, out-of-memory/time limits on the CNN, CPU-only compute, class imbalance; 32/32 tests passing.
+- **Slide 19 — Study 2 design:** Memotion 3,500-meme subset; sharp vs. Gaussian-blurred (r = 14 px) image models; blur validated by a 99.9% drop in Laplacian variance.
+- **Slide 20 — Study 2 results:** fusion 52.6% / 36.6% macro-F1 on sharp memes; blur costs image-only 1.4 pp but fusion 10.9 pp accuracy, so the fusion gain on memes is mostly embedded-text leakage.
+- **Slide 22 — Next Plan & Timeline:** Gantt chart + month-by-month plan (see `NEXT_PLAN.md`).
+- **Slide 23 — Conclusion:** updated to state both studies' findings.

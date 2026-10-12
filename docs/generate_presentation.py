@@ -271,7 +271,7 @@ add_text(s, "Text", Inches(9.3), Inches(4.35), Inches(1.2), Inches(0.35), size=1
 add_text(s, "Image", Inches(10.9), Inches(4.35), Inches(1.2), Inches(0.35), size=13, bold=True, color=NAVY, align=PP_ALIGN.CENTER)
 add_text(s, "Two signals,\none post", Inches(9.1), Inches(4.9), Inches(3.2), Inches(0.8), size=14, color=MUTED,
           italic=True, align=PP_ALIGN.CENTER)
-add_footer(s, 2, "AI-Driven Multimodal Sentiment Analysis for Mental Health Monitoring")
+add_footer(s, len(prs.slides), "AI-Driven Multimodal Sentiment Analysis for Mental Health Monitoring")
 
 # ======================================================================
 # Slide 3 -- Motivation
@@ -285,7 +285,7 @@ rows = [
 ]
 for i, (t, b) in enumerate(rows):
     icon_row(s, Inches(0.8), Inches(2.0 + i * 1.55), Inches(11.5), Inches(1.35), i + 1, t, b)
-add_footer(s, 3, "AI-Driven Multimodal Sentiment Analysis for Mental Health Monitoring")
+add_footer(s, len(prs.slides), "AI-Driven Multimodal Sentiment Analysis for Mental Health Monitoring")
 
 # ======================================================================
 # Slide 4 -- Existing Approaches (3-column cards)
@@ -303,7 +303,7 @@ card(s, x0 + cw + gap, Inches(1.95), cw, Inches(4.5), "Image-based",
 card(s, x0 + 2 * (cw + gap), Inches(1.95), cw, Inches(4.5), "Multimodal",
      ["Active, well-populated research area", "Mature fusion-strategy taxonomy exists", "Gap: lacks controlled same-metrics comparison on real social data"],
      border=ORANGE)
-add_footer(s, 4, "AI-Driven Multimodal Sentiment Analysis for Mental Health Monitoring")
+add_footer(s, len(prs.slides), "AI-Driven Multimodal Sentiment Analysis for Mental Health Monitoring")
 
 # ======================================================================
 # Slide 5 -- Research Gap
@@ -317,7 +317,7 @@ add_bullets(s, [
     "No located prior work does a controlled, same-dataset, same-metrics text-vs-image-vs-multimodal comparison on adequately-sized real social-media data.",
     "This project addresses that gap directly, and documents the real resource constraints of doing so on consumer CPU-only hardware.",
 ], Inches(0.8), Inches(4.3), Inches(11.7), Inches(1.8), size=15)
-add_footer(s, 5, "AI-Driven Multimodal Sentiment Analysis for Mental Health Monitoring")
+add_footer(s, len(prs.slides), "AI-Driven Multimodal Sentiment Analysis for Mental Health Monitoring")
 
 # ======================================================================
 # Slide 6 -- Objectives
@@ -332,7 +332,25 @@ objs = [
 ]
 for i, t in enumerate(objs):
     icon_row(s, Inches(0.8), Inches(2.0 + i * 1.18), Inches(11.5), Inches(1.0), i + 1, t, "")
-add_footer(s, 6, "AI-Driven Multimodal Sentiment Analysis for Mental Health Monitoring")
+add_footer(s, len(prs.slides), "AI-Driven Multimodal Sentiment Analysis for Mental Health Monitoring")
+
+# ======================================================================
+# Research Questions
+# ======================================================================
+s = add_slide(); set_bg(s, BG_LIGHT)
+add_page_title(s, "Research Questions", "Research Progress")
+card(s, Inches(0.7), Inches(1.9), Inches(11.9), Inches(1.3), "Primary RQ",
+     ["Can combining text and image improve sentiment classification of social-media posts over text-only and image-only models?"],
+     border=ORANGE, title_color=ORANGE)
+rqs = [
+    ("RQ-a  Text", "How well does text alone do: traditional TF-IDF vs. transformer (DistilBERT)?"),
+    ("RQ-b  Image", "What does the image add: CNN from scratch vs. pretrained ResNet18?"),
+    ("RQ-c  Conflict", "Does fusion help uniformly, or mainly where text and image disagree?"),
+    ("RQ-d  Memes (new)", "When the text is printed inside the image, is the fusion gain real visual signal, or the image re-reading the text?"),
+]
+for i, (t, b) in enumerate(rqs):
+    icon_row(s, Inches(0.8) + (i % 2) * Inches(6.0), Inches(3.55 + (i // 2) * 1.55), Inches(5.7), Inches(1.3), i + 1, t, b)
+add_footer(s, len(prs.slides), "AI-Driven Multimodal Sentiment Analysis for Mental Health Monitoring")
 
 # ======================================================================
 # Slide 7 -- Dataset
@@ -346,7 +364,7 @@ add_bullets(s, [
     "Class imbalance motivates macro-F1 as the primary metric",
 ], Inches(0.7), Inches(2.0), Inches(5.9), Inches(4.5), size=14.5, space_after=16)
 add_picture_contain(s, VIZ / "class_distribution.png", Inches(6.9), Inches(1.9), Inches(5.7), Inches(4.7))
-add_footer(s, 7, "AI-Driven Multimodal Sentiment Analysis for Mental Health Monitoring")
+add_footer(s, len(prs.slides), "AI-Driven Multimodal Sentiment Analysis for Mental Health Monitoring")
 
 # ======================================================================
 # Slide 8 -- Proposed Architecture (diagram)
@@ -370,7 +388,7 @@ pipeline_arrow(s, Inches(6.35), y + Inches(3.82), Inches(0.65), Inches(0.4))
 pipeline_box(s, Inches(4.6), y + Inches(4.15), Inches(4.1), bh, "Output: Sentiment\n(positive / neutral / negative)", fill=NAVY_DARK)
 add_text(s, "Full rationale: PROJECT_ARCHITECTURE.md", Inches(0.8), Inches(6.85), Inches(6), Inches(0.3),
           size=10.5, color=MUTED, italic=True)
-add_footer(s, 8, "AI-Driven Multimodal Sentiment Analysis for Mental Health Monitoring")
+add_footer(s, len(prs.slides), "AI-Driven Multimodal Sentiment Analysis for Mental Health Monitoring")
 
 # ======================================================================
 # Slide 9 -- Text Pipeline
@@ -390,7 +408,7 @@ card(s, Inches(0.8), Inches(3.7), Inches(5.7), Inches(2.6), "A1 — TF-IDF basel
      ["Unigrams + bigrams, 10k features", "Class-weighted Logistic Regression", "Test: 60.9% accuracy / 52.0% macro-F1"], border=ICE)
 card(s, Inches(6.8), Inches(3.7), Inches(5.7), Inches(2.6), "A2 — Frozen DistilBERT",
      ["distilbert-base-uncased, mean-pooled", "Chosen for CPU-only feasibility", "Test: 61.6% accuracy / 54.6% macro-F1"], border=ORANGE)
-add_footer(s, 9, "AI-Driven Multimodal Sentiment Analysis for Mental Health Monitoring")
+add_footer(s, len(prs.slides), "AI-Driven Multimodal Sentiment Analysis for Mental Health Monitoring")
 
 # ======================================================================
 # Slide 10 -- Image Pipeline
@@ -409,7 +427,7 @@ card(s, Inches(0.8), Inches(3.7), Inches(5.7), Inches(2.6), "B1 — CNN from scr
      ["Small 4-layer CNN, trained from scratch", "Reduced to 96x96 / 3 epochs (CPU budget)", "Test: 47.6% accuracy / 42.9% macro-F1"], border=ICE)
 card(s, Inches(6.8), Inches(3.7), Inches(5.7), Inches(2.6), "B2 — Frozen ResNet18",
      ["ImageNet-pretrained, frozen feature extractor", "Transfer learning over from-scratch training", "Test: 52.7% accuracy / 42.8% macro-F1"], border=ORANGE)
-add_footer(s, 10, "AI-Driven Multimodal Sentiment Analysis for Mental Health Monitoring")
+add_footer(s, len(prs.slides), "AI-Driven Multimodal Sentiment Analysis for Mental Health Monitoring")
 
 # ======================================================================
 # Slide 11 -- Multimodal Fusion
@@ -427,7 +445,7 @@ card(s, Inches(0.8), Inches(4.7), Inches(11.3), Inches(1.9), "Primary vs. ablati
      ["Primary: feature-level (early) concatenation fusion — cheap to train on CPU, standard first fusion strategy in the literature",
       "Ablation: late (decision-level) fusion — independent text/image classifiers' probabilities combined by averaging and by a validation-tuned weight (w_text = 0.80)"],
      border=ICE)
-add_footer(s, 11, "AI-Driven Multimodal Sentiment Analysis for Mental Health Monitoring")
+add_footer(s, len(prs.slides), "AI-Driven Multimodal Sentiment Analysis for Mental Health Monitoring")
 
 # ======================================================================
 # Slide 12 -- Experimental Setup
@@ -444,7 +462,7 @@ add_bullets(s, [
     "Evaluation: accuracy, precision/recall/F1 (macro + weighted), confusion matrix",
     "All numbers read directly from results/*.json, generated by actually-executed scripts under src/",
 ], Inches(0.8), Inches(4.8), Inches(11.5), Inches(1.5), size=14.5)
-add_footer(s, 12, "AI-Driven Multimodal Sentiment Analysis for Mental Health Monitoring")
+add_footer(s, len(prs.slides), "AI-Driven Multimodal Sentiment Analysis for Mental Health Monitoring")
 
 # ======================================================================
 # Slide 13 -- Results
@@ -454,7 +472,7 @@ add_page_title(s, "Results", "Results & Validation")
 add_picture_contain(s, VIZ / "model_comparison.png", Inches(0.8), Inches(1.85), Inches(11.7), Inches(4.6))
 add_text(s, "Multimodal fusion beats every unimodal model on every metric: 64.4% accuracy / 56.3% macro-F1.",
           Inches(0.8), Inches(6.65), Inches(11.7), Inches(0.5), size=14, color=NAVY, bold=True, align=PP_ALIGN.CENTER)
-add_footer(s, 13, "AI-Driven Multimodal Sentiment Analysis for Mental Health Monitoring")
+add_footer(s, len(prs.slides), "AI-Driven Multimodal Sentiment Analysis for Mental Health Monitoring")
 
 # ======================================================================
 # Slide 14 -- Modality Conflict Analysis
@@ -468,7 +486,7 @@ add_bullets(s, [
     "On agreement cases, a small regression: fusion 72.9% vs. text 74.8%",
     "An honest finding — not a blanket “multimodal always wins”",
 ], Inches(8.3), Inches(2.1), Inches(4.3), Inches(4.5), size=13.5, space_after=14)
-add_footer(s, 14, "AI-Driven Multimodal Sentiment Analysis for Mental Health Monitoring")
+add_footer(s, len(prs.slides), "AI-Driven Multimodal Sentiment Analysis for Mental Health Monitoring")
 
 # ======================================================================
 # Slide 15 -- Explainability
@@ -484,7 +502,7 @@ for i, (t, b) in enumerate(rows):
     icon_row(s, Inches(0.8), Inches(2.0 + i * 1.3), Inches(11.5), Inches(1.1), i + 1, t, b)
 add_text(s, "Exploratory — not a rigorously validated attribution method (documented limitation).",
           Inches(0.8), Inches(6.1), Inches(11.5), Inches(0.5), size=13, color=MUTED, italic=True)
-add_footer(s, 15, "AI-Driven Multimodal Sentiment Analysis for Mental Health Monitoring")
+add_footer(s, len(prs.slides), "AI-Driven Multimodal Sentiment Analysis for Mental Health Monitoring")
 
 # ======================================================================
 # Slide 16 -- Application / Dashboard (real screenshots)
@@ -497,7 +515,62 @@ add_text(s, "Predict page — real text + image analyzed live", Inches(0.6), Inc
           size=11.5, color=MUTED, italic=True, align=PP_ALIGN.CENTER)
 add_text(s, "Research dashboard — model comparison & confusion matrices", Inches(6.85), Inches(6.85), Inches(5.9), Inches(0.35),
           size=11.5, color=MUTED, italic=True, align=PP_ALIGN.CENTER)
-add_footer(s, 16, "AI-Driven Multimodal Sentiment Analysis for Mental Health Monitoring")
+add_footer(s, len(prs.slides), "AI-Driven Multimodal Sentiment Analysis for Mental Health Monitoring")
+
+# ======================================================================
+# Technical Challenges & Testing
+# ======================================================================
+s = add_slide(); set_bg(s, BG_LIGHT)
+add_page_title(s, "Technical Challenges & Testing", "Implementation")
+challenges = [
+    ("Dead dataset link", "Official MVSA link returned 404, so we verified a Hugging Face mirror and used the published CLMLF split"),
+    ("Out of memory / time limits", "The from-scratch CNN was killed once for running out of memory and once exceeded the time budget. Fixed with a 96×96 pixel cache and 3 epochs"),
+    ("CPU-only compute", "Frozen DistilBERT / ResNet18 with cached embeddings (46–71 ms/sample)"),
+    ("Class imbalance", "Neutral class is only about 10%. Fixed with class-weighted losses and macro-F1 model selection"),
+]
+for i, (t, b) in enumerate(challenges):
+    icon_row(s, Inches(0.8), Inches(1.9 + i * 1.15), Inches(7.6), Inches(1.0), i + 1, t, b)
+stat_tile(s, Inches(8.9), Inches(1.95), Inches(3.6), Inches(1.9), "32 / 32", "automated tests passing\n(pytest)")
+stat_tile(s, Inches(8.9), Inches(4.1), Inches(3.6), Inches(1.9), "2 studies", "MVSA-Single (4,511 tweets)\n+ Memotion (3,500 memes)", number_color=NAVY)
+add_footer(s, len(prs.slides), "AI-Driven Multimodal Sentiment Analysis for Mental Health Monitoring")
+
+# ======================================================================
+# Study 2 -- design
+# ======================================================================
+V2 = ROOT / "research_paper_v2"
+import json as _json
+blur = _json.loads((V2 / "results" / "blur_leakage_analysis.json").read_text())
+bv = blur["blur_validation_metric"]
+s = add_slide(); set_bg(s, BG_LIGHT)
+add_page_title(s, "Study 2: Do Memes Leak Text into the Image?", "Extension — Research Design")
+add_bullets(s, [
+    "Memes print their text directly onto the image, so an \"image-only\" model may simply be reading the text",
+    "Dataset: Memotion (SemEval-2020 Task 8), stratified 3,500-meme subset (2,800 / 350 / 350), 3-class sentiment",
+    "Same pipeline as Study 1 (A1, A2, B1, B2, C), with every image model trained twice: sharp vs. Gaussian-blurred (r = 14 px)",
+    f"Blur validated objectively: mean Laplacian variance {bv['mean_laplacian_variance_sharp']:.0f} → {bv['mean_laplacian_variance_blurred']:.1f} ({bv['pct_reduction']:.1f}% drop), so the text strokes are gone while colour and layout remain",
+], Inches(0.7), Inches(1.95), Inches(6.6), Inches(4.8), size=14, space_after=14)
+pipeline_box(s, Inches(7.8), Inches(2.0), Inches(4.7), Inches(0.8), "Meme image (text printed on it)")
+pipeline_arrow(s, Inches(9.9), Inches(2.9), Inches(0.5), Inches(0.45))
+pipeline_box(s, Inches(7.8), Inches(3.45), Inches(2.2), Inches(0.9), "Sharp\n→ ResNet18", fill=NAVY)
+pipeline_box(s, Inches(10.3), Inches(3.45), Inches(2.2), Inches(0.9), "Blurred\n→ ResNet18", fill=ORANGE)
+pipeline_arrow(s, Inches(9.9), Inches(4.45), Inches(0.5), Inches(0.45))
+pipeline_box(s, Inches(7.8), Inches(5.0), Inches(4.7), Inches(0.9), "Compare image-only and fusion\nsharp vs. blurred", fill=NAVY_DARK)
+add_footer(s, len(prs.slides), "AI-Driven Multimodal Sentiment Analysis for Mental Health Monitoring")
+
+# ======================================================================
+# Study 2 -- results
+# ======================================================================
+s = add_slide(); set_bg(s, BG_LIGHT)
+add_page_title(s, "Study 2 Results: Gain Comes from Embedded Text", "Results & Validation")
+add_picture_contain(s, V2 / "figures" / "sharp_vs_blur.png", Inches(0.7), Inches(1.9), Inches(6.9), Inches(4.9))
+add_bullets(s, [
+    "Sharp memes: fusion reaches 52.6% accuracy / 36.6% macro-F1, beating every unimodal model",
+    f"Blurring barely affects image-only (−{blur['image_only_accuracy_drop_pp']:.1f} pp accuracy)…",
+    f"…but removes most of the fusion gain (−{blur['fusion_accuracy_drop_pp']:.1f} pp accuracy, −{blur['fusion_macrof1_drop_pp']:.1f} pp macro-F1)",
+    f"Blurred fusion is within {blur['cblur_vs_text_only_accuracy_delta_pp']:.1f} pp of text-only accuracy",
+    "Takeaway: on memes, \"image\" and \"text\" are not independent evidence. Fusion benefit depends on the data",
+], Inches(7.9), Inches(1.95), Inches(4.7), Inches(4.9), size=13, space_after=11)
+add_footer(s, len(prs.slides), "AI-Driven Multimodal Sentiment Analysis for Mental Health Monitoring")
 
 # ======================================================================
 # Slide 17 -- Research Contribution & Limitations
@@ -515,10 +588,26 @@ card(s, Inches(6.75), Inches(1.95), Inches(5.9), Inches(4.6), "Limitations",
       "Small (~1–2%) cross-split duplication in the published split used",
       "From-scratch CNN baseline was compute-constrained"],
      border=ICE)
-add_footer(s, 17, "AI-Driven Multimodal Sentiment Analysis for Mental Health Monitoring")
+add_footer(s, len(prs.slides), "AI-Driven Multimodal Sentiment Analysis for Mental Health Monitoring")
 
 # ======================================================================
-# Slide 18 -- Future Work & Conclusion
+# Next Plan & Timeline
+# ======================================================================
+s = add_slide(); set_bg(s, BG_LIGHT)
+add_page_title(s, "Next Plan & Timeline", "What Remains")
+add_picture_contain(s, ROOT / "docs" / "figures" / "gantt_viva2.png", Inches(0.6), Inches(1.85), Inches(6.9), Inches(4.9))
+add_bullets(s, [
+    "Oct 2026: re-run fusion/CNN over 5 seeds (mean ± std) + McNemar / bootstrap significance tests",
+    "Nov 2026: OCR-based text-masking ablation; full 6,992-meme Memotion run",
+    "Nov–Dec 2026: cross-modal attention fusion (stretch goal)",
+    "Dec 2026: merge both studies into one self-contained manuscript",
+    "Jan 2027: submit to target venue (e.g. IEEE ICCCNT), chosen with the guide",
+    "Feb–Mar 2027: revisions, final report, final demo",
+], Inches(7.8), Inches(1.95), Inches(4.8), Inches(4.9), size=13, space_after=10)
+add_footer(s, len(prs.slides), "AI-Driven Multimodal Sentiment Analysis for Mental Health Monitoring")
+
+# ======================================================================
+# Future Work & Conclusion
 # ======================================================================
 s = add_slide(); set_bg(s, NAVY)
 add_motif(s, Inches(6.67), Inches(1.3), r=Inches(0.34))
@@ -528,12 +617,11 @@ add_text(s, "Multimodal fusion provides a real, measurable, but conditional\nimp
           Inches(1), Inches(2.3), Inches(11.3), Inches(1.5), size=24, color=WHITE, bold=True,
           font=TITLE_FONT, align=PP_ALIGN.CENTER, line_spacing=1.15)
 add_bullets(s, [
-    "Future work: multilingual extension",
-    "Future work: cross-modal attention fusion at scale",
-    "Future work: validation against a genuinely mental-health-labeled multimodal dataset, if one becomes openly available",
+    "Tweets (Study 1): fusion 64.4% accuracy / 56.3% macro-F1 vs. best unimodal 61.6% / 54.6%",
+    "Memes (Study 2): most of the fusion gain disappears once embedded text is blurred away",
+    "Future work: multilingual data, attention fusion, mental-health-labelled multimodal data when available",
 ], Inches(2.3), Inches(4.3), Inches(8.7), Inches(2.0), size=14, color=ICE, bullet_color=ORANGE)
-add_footer_slide = s
-add_text(s, "AI-Driven Multimodal Sentiment Analysis for Mental Health Monitoring  |  Group 15  |  18",
+add_text(s, f"AI-Driven Multimodal Sentiment Analysis for Mental Health Monitoring  |  Group 15  |  {len(prs.slides)}",
           Inches(0.7), Inches(7.08), Inches(12), Inches(0.3), size=9, color=ICE, align=PP_ALIGN.CENTER)
 
 prs.save(str(OUT))

@@ -34,3 +34,8 @@ Thumbs.db
 # Local tooling state
 .claude/
 .pytest_cache/
+
+# Study 2 cached features/predictions (~790MB, regenerable via research_paper_v2/src/01-07)
+research_paper_v2/data/processed/*
+research_paper_v2/data/raw/*
+!research_paper_v2/data/raw/download_summary.json
