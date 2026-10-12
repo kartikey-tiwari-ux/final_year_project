@@ -39,3 +39,8 @@ Thumbs.db
 research_paper_v2/data/processed/*
 research_paper_v2/data/raw/*
 !research_paper_v2/data/raw/download_summary.json
+
+# Files the deployed Streamlit demo needs at runtime (small; everything else stays ignored)
+!data/processed/mvsa_single_manifest.csv
+!data/processed/distilbert_embeddings.npz
+!data/processed/resnet18_embeddings.npz

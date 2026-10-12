@@ -1,0 +1,14 @@
+# Runtime dependencies for the deployed Streamlit demo (Streamlit Community Cloud reads
+# this file in preference to the root requirements.txt). CPU-only PyTorch wheels keep
+# the install small; the cloud container has no GPU.
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch
+torchvision
+transformers
+streamlit
+numpy
+pandas
+scikit-learn
+pillow
+emoji
+matplotlib
